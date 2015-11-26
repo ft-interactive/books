@@ -1,6 +1,11 @@
 import browserify from 'browserify';
 import browserSync from 'browser-sync';
 import del from 'del';
+import dotenv from 'dotenv';
+import fetch from 'node-fetch';
+import fs from 'fs';
+import nunjucks from 'nunjucks';
+import mkdirp from 'mkdirp';
 import gulp from 'gulp';
 import igdeploy from 'igdeploy';
 import mergeStream from 'merge-stream';
@@ -10,7 +15,10 @@ import source from 'vinyl-source-stream';
 import subdir from 'subdir';
 import vinylBuffer from 'vinyl-buffer';
 import watchify from 'watchify';
+import processData from './process-data.js';
 const $ = require('auto-plug')('gulp');
+
+dotenv.load();
 
 const AUTOPREFIXER_BROWSERS = [
   'ie >= 8',
@@ -151,12 +159,14 @@ gulp.task('serve', ['styles'], function (done) {
       }
     });
 
-    // refresh browser after other changes
-    gulp.watch(['client/**/*.html'], browserSync.reload);
     gulp.watch(['client/styles/**/*.{scss,css}'], ['styles', 'scsslint', browserSync.reload]);
     gulp.watch(['client/images/**/*'], browserSync.reload);
 
-    done();
+    gulp.watch(['./views/**/*.html', 'client/data.json'], () => {
+      runSequence('templates', browserSync.reload);
+    });
+
+    runSequence('templates', done);
   });
 });
 
@@ -166,6 +176,8 @@ gulp.task('serve:dist', ['build'], done => {
     open: false,
     notify: false,
     server: 'dist',
+    proxy: 'local',
+    startPath: "/best-of-2015/"
   }, done);
 });
 
@@ -212,8 +224,8 @@ gulp.task('build', done => {
   env = 'production';
 
   runSequence(
-    ['clean', 'scsslint', 'eslint'],
-    ['scripts', 'styles', 'copy'],
+    ['clean', 'scsslint', 'eslint', 'download-data'],
+    ['scripts', 'styles', 'copy', 'templates'],
     ['html', 'images'],
   done);
 });
@@ -233,4 +245,24 @@ gulp.task('deploy', done => {
     if (error) return done(error);
     console.log(`Deployed to http://ig.ft.com/${DEPLOY_TARGET}/`);
   });
+});
+
+// downloads the data from bertha to client/words.json
+gulp.task('download-data', () => fetch(process.env.DATA_URL)
+  .then(res => res.json())
+  .then(data => {
+    console.log('Got %s', process.env.DATA_URL);
+    fs.writeFileSync('client/data.json', JSON.stringify(data, null, 2));
+  })
+);
+
+gulp.task('templates', () => {
+
+  const env = nunjucks.configure('views');
+  const data = processData(JSON.parse(fs.readFileSync('client/data.json', 'utf8')));
+  const slug = 'best-of-2015';
+  const html = env.render('best-of-2015.html', data);
+  mkdirp.sync(`.tmp/${slug}`);
+  fs.writeFileSync(`.tmp/${slug}/index.html`, html);
+
 });
