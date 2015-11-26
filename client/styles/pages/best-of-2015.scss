@@ -1,4 +1,10 @@
+
 @import "sass-mq/mq";
+
+// Tweakpoints
+@include mq-add-breakpoint(phablet, 550px);
+@include mq-add-breakpoint(smalldesktop, 980px);
+@include mq-add-breakpoint(portraittablet, 1025px);
 
 $font-display: FinancierDisplayWeb, serif;
 $font-serif: FinancierTextWeb, Georgia, serif;
@@ -6,6 +12,10 @@ $font-sans: MerticWeb, sans-serif;
 
 * {
   box-sizing: border-box;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
 }
 
 body {
@@ -28,6 +38,16 @@ body {
     background-size: 100% auto;
     background-position: left top;
     /* 220 medium, 250 l/xl ? */
+
+    @include mq($until: portraittablet) {
+      width: 230px;
+      top: 140px;
+    }
+
+    @include mq($until: smalldesktop) {
+      width: 200px;
+    }
+
     @include mq($until: tablet) {
       display: none;
     }
@@ -39,15 +59,66 @@ body {
   background-image: url('../../images/frieze.jpg');
   background-repeat: repeat-x;
   background-position: left top;
-  background-size: 1600px auto;
+  background-size: 1550px auto;
   height: 80%;
   padding-left: 300px;
-  padding-top: 185px;
-  padding-right: 300px;
+  padding-top: 190px;
+  padding-right: 190px;
   font-family: $font-display;
+  position: relative;
+
+  @include mq($until: portraittablet) {
+    padding-top: 130px;
+    background-size: 1200px auto;
+    padding-right: 30px;
+    padding-left: 270px;
+  }
+
+  @include mq($until: smalldesktop) {
+    padding-left: 240px;
+    padding-top: 150px;
+    background-size: 1200px auto;
+    padding-right: 30px;
+  }
+
+  @include mq($until: tablet) {
+    padding-left: 20px;
+    padding-top: 20px;
+    background-size: 800px auto;
+    padding-right: 20px;
+    
+    background-image: url('../../images/night.png');
+    background-size: 240px auto;
+
+    &:before {
+      position: absolute;
+      content: " ";
+      width: 145px;
+      top: 45px;
+      bottom: 0;
+      left: 0;
+      position: absolute;
+      z-index: 1;
+      background-image: url('../../images/houses.png');
+      background-repeat: repeat-y;
+      background-size: 100% auto;
+      background-position: left top;
+    }
+  }
+
+  @include mq($until: phablet) {
+    &:before {
+      width: 115px;
+      top: 57px;
+    }
+  }
 
   &__logo {
     width: 180px;
+    @include mq($until: tablet) {
+      margin: 0 auto;
+      display: block;
+    }
   }
 
   &__title {
@@ -58,14 +129,55 @@ body {
     font-weight: 400;
     margin: 15px 0 25px 0;
     text-shadow: 0 0 20px rgba(255,255,255,0.3), 0 0 6px rgba(255,255,255,0.66);
+
+    @include mq($until: portraittablet) {
+      font-size: 130px;
+      margin-top: 10px;
+      margin-bottom: 20px;
+    }
+
+    @include mq($until: smalldesktop) {
+      font-size: 100px;
+    }
+
+    @include mq($until: tablet) {
+      font-size: 54px;
+      margin: 15px 0 10px 170px;
+      line-height: 1;
+    }
+
+    @include mq($until: phablet) {
+      margin: 25px 0 10px 110px;
+      text-align: center;
+    }
   }
 
   &__standfirst {
     color: white;
     font-size: 26px;
     max-width: 730px;
-    line-height: 1.2em;
-    margin-bottom: 1.75em;
+    line-height: 1.35em;
+    margin-bottom: 2.8em;
+
+    @include mq($until: portraittablet) {
+      font-size: 24px;
+      margin-bottom: 1.8em;
+    }
+
+    @include mq($until: smalldesktop) {
+      font-size: 22px;
+      line-height: 1.5;
+    }
+
+    @include mq($until: tablet) {
+      font-size: 18px;
+      margin: 25px 0 80px 170px;
+    }
+
+    @include mq($until: phablet) {
+      font-size: 18px;
+      margin: 25px 0 65px 120px;
+    }
 
     p {
       margin: .5em 0;
@@ -84,6 +196,7 @@ body {
       color: white;
       text-decoration: none;
       font-style: italic;
+      letter-spacing: .02em;
       padding-right: .3em;
     }
   }
@@ -94,6 +207,16 @@ body {
   margin-left: 280px;
   margin-top: 30px;
   padding: 0;
+
+  @include mq($until: portraittablet) {
+    margin-left: 245px;
+  }
+
+  @include mq($until: smalldesktop) {
+    margin-left: 215px;
+    margin-top: 20px;
+  }
+
   @include mq($until: tablet) {
     margin-left: 0;
     margin-top: 10px;
@@ -115,7 +238,7 @@ body {
     font-family: $font-display;
     margin: 0 0 34px 20px;
     background-size: 0;
-
+    
     @include mq($until: tablet) {
       margin:20px 20px 20px 20px;
       text-align: center;
@@ -125,8 +248,8 @@ body {
         display: block;
         width: 100%;
         padding-top: 80%;
-        max-width: 400px;
-        margin: 0 auto 30px auto;
+        max-width: 350px;
+        margin: 0 auto 22px auto;
         background-image: inherit;
         background-size: 90% auto;
         background-position: center bottom;
@@ -143,6 +266,10 @@ body {
     color: rgb(14,35,101);
     font-weight: 400;
 
+    @include mq($until: smalldesktop) {
+      font-size: 40px;
+    }
+
     @include mq($until: tablet) {
       font-size: 40px;
     }
@@ -156,6 +283,11 @@ body {
     font-weight: 400;
     margin-top: 5px;
     color: rgba(14,35,101, 0.6);
+
+    @include mq($until: smalldesktop) {
+      font-size: 20px;
+    }
+
     @include mq($until: tablet) {
       font-size: 21px;
     }
@@ -204,10 +336,22 @@ body {
   display: inline-block;
   vertical-align: top;
 
-  @include mq($until: tablet) {
-    width: 100%;
+  @include mq($until: smalldesktop) {
     height: auto;
+    min-height: 300px;
     margin-bottom: 30px;
+    width: 50%;
+    float: left;
+  }
+
+  @include mq($until: tablet) {
+    min-height: 320px;
+  }
+
+  @include mq($until: phablet) {
+    width: 100%;
+    float: none;
+    min-height: 0;
   }
 
   &--image {

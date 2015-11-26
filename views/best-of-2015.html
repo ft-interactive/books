@@ -6,15 +6,17 @@
 
 {% block styles %}
 <link rel="stylesheet" href="https://h2.ft.com/build/v2/bundles/css?modules=o-fonts@^2,o-footer@^4" />
+<!-- build:css ../styles/pages/best-of-2015.css -->
 <link rel="stylesheet" href="../styles/pages/best-of-2015.css" />
+<!-- endbuild -->
 {% endblock %}
 
 {% block body %}
 <header class="hero">
   <img class="hero__logo" src="../images/logo.svg" alt="Financial Times">
-  <h1 class="hero__title">Best books<br/>of 2015</h1>
+  <h1 class="hero__title">Best books<br/>of &thinsp;2015</h1>
   <div class="hero__standfirst">
-    <p>In the run up to Christmas, FT writers pick their favourite reads of the year</p>
+    <p>In the run up to Christmas, FT writers pick their favourite reads of the year</p>
     <nav class="hero__nav">
       {% for slug, category in categories %}
         <a href="#{{slug}}-books">{{category.name}}</a>
