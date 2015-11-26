@@ -118,7 +118,7 @@ gulp.task('html', done => {
     searchPath: ['.tmp', 'client', '.'],
   });
 
-  gulp.src('client/**/*.html')
+  gulp.src('.tmp/**/*.html')
     .pipe(assets)
     .pipe($.if('*.js', $.uglify({output: {inline_script: true}}))) // eslint-disable-line camelcase
     .pipe($.if('*.css', $.minifyCss({compatibility: '*'})))
