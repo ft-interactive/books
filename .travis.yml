@@ -1,6 +1,19 @@
+sudo: false
 language: node_js
-node_js:
-  - '4'
-  - 'stable'
-before_install: 'bundle && npm install --global bower && bower install'
-before_script: 'scss-lint client/**/*.scss'
+node_js: '5.0'
+cache:
+  directories:
+    - node_modules
+    - bower_components
+before_install: 'bundle'
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: ./deploy.sh
+  on:
+    branch: master
+env:
+  GITHUB_USER: ft-interactive
+  GITHUB_REPO: books
+  GIT_DEPLOY_DIR: dist
+  GIT_DEPLOY_BRANCH: gh-pages
