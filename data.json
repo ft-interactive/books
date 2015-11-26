@@ -1,0 +1,1692 @@
+{
+  "categories": [
+    {
+      "name": "History",
+      "parent": null
+    },
+    {
+      "name": "Economics",
+      "parent": null
+    },
+    {
+      "name": "Business",
+      "parent": null
+    },
+    {
+      "name": "Politics",
+      "parent": null
+    },
+    {
+      "name": "Science",
+      "parent": null
+    },
+    {
+      "name": "Art",
+      "parent": "Arts"
+    },
+    {
+      "name": "Architecture and design",
+      "parent": "Arts"
+    },
+    {
+      "name": "Film",
+      "parent": "Arts"
+    },
+    {
+      "name": "Classical music and opera",
+      "parent": "Music"
+    },
+    {
+      "name": "Pop",
+      "parent": "Music"
+    },
+    {
+      "name": "Fashion and style",
+      "parent": "Arts"
+    },
+    {
+      "name": "Literary Non-fiction",
+      "parent": null
+    },
+    {
+      "name": "Fiction",
+      "parent": null
+    },
+    {
+      "name": "Fiction in translation",
+      "parent": "Fiction"
+    },
+    {
+      "name": "Poetry",
+      "parent": null
+    },
+    {
+      "name": "Travel",
+      "parent": null
+    },
+    {
+      "name": "Sport",
+      "parent": null
+    },
+    {
+      "name": "Food",
+      "parent": null
+    },
+    {
+      "name": "Gardens",
+      "parent": null
+    },
+    {
+      "name": "Crime",
+      "parent": null
+    },
+    {
+      "name": "Science Fiction",
+      "parent": null
+    },
+    {
+      "name": "Young adult",
+      "parent": null
+    },
+    {
+      "name": "Children's",
+      "parent": null
+    }
+  ],
+  "lists": [
+    {
+      "name": "Christmas 2015",
+      "year": 2015,
+      "uuid": null
+    }
+  ],
+  "books": [
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Tony Barber",
+        "bylineposition": "FT's Europe editor",
+        "copy": "<p>Magna Carta, the foundation stone of constitutional government in the English-speaking world, passed its 800th anniversary this year. Stephen Church, professor of medieval history at the University of East Anglia, explains with exemplary clarity how the charter emerged from the military and political struggles of King John’s reign.</p>"
+      },
+      "category": "History",
+      "book": {
+        "author": "Stephen Church",
+        "title": "King John",
+        "fulltitle": "King John and the Road to Magna Carta",
+        "publisher": "Basic Books",
+        "year": 2015,
+        "isbn": 465092993,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Tony Barber",
+        "bylineposition": "FT's Europe editor",
+        "copy": "<p>David Cressy is the author of several delightful books on the social history of Tudor and Stuart England that draw on curious material buried in the archives. Here the Ohio State University historian investigates what the common people thought of Charles I before the king’s tumultuous reign ended with his beheading in 1649.</p>"
+      },
+      "category": "History",
+      "book": {
+        "author": "David Cressy",
+        "title": "Charles I and the People of England",
+        "fulltitle": null,
+        "publisher": "Oxford University Press",
+        "year": 2015,
+        "isbn": 198708297,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Tony Barber",
+        "bylineposition": "FT's Europe editor",
+        "copy": "<p>New books on the violent dawn of Irish independence are appearing thick and fast as the 100th anniversary of the 1916 Easter Uprising draws near. Diarmaid Ferriter, professor of modern Irish history at University College, Dublin, sets the bar high for good writing and scholarship in this outstanding study.</p>"
+      },
+      "category": "History",
+      "book": {
+        "author": "Diarmaid Ferriter",
+        "title": "A Nation and not a Rabble",
+        "fulltitle": "A Nation and not a Rabble: The Irish Revolution 1913-1923",
+        "publisher": "Profile Books",
+        "year": 2015,
+        "isbn": 1781250413,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Tony Barber",
+        "bylineposition": "FT's Europe editor",
+        "copy": "<p>In 1762, religious conflict flared up on the Dutch-German border when a Catholic woman attempted to kidnap a baby to prevent its baptism in a Protestant church. Kaplan, a professor at University College London, unearthed this episode in the Dutch archives. He paints a lucid, fascinating picture of the Enlightenment as an age of prejudice as much as one of toleration.</p>"
+      },
+      "category": "History",
+      "book": {
+        "author": "Benjamin J Kaplan",
+        "title": "Cunegonde's Kidnapping",
+        "fulltitle": "Cunegonde's Kidnapping: A Story of Religious Conflict in the Age of Enlightment",
+        "publisher": "Yale University Press",
+        "year": 2015,
+        "isbn": "030018736X",
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Tony Barber",
+        "bylineposition": "FT's Europe editor",
+        "copy": "<p>Aristocratic values, imperial mindsets and the emergence of modern nationalisms are the big themes of this illuminating history of late tsarist Russia by Dominic Lieven, professor of Russian studies at the London School of Economics. Lieven writes with all the clarity, conviction and fluent command of sources that readers have come to expect of him.</p>"
+      },
+      "category": "History",
+      "book": {
+        "author": "Dominic Lieven",
+        "title": "Towards the Flame",
+        "fulltitle": "Towards the Flame: War and the End of Tsarist Russia",
+        "publisher": "Allen Lane/ Viking",
+        "year": 2015,
+        "isbn": 1846143810,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Tony Barber",
+        "bylineposition": "FT's Europe editor",
+        "copy": "<p>The 1889 murder in Chicago of Patrick Henry Cronin, an Irish-American physician and political activist, was one of the great scandals of late 19th-century US public life. Gillian O’Brien, a historian at the UK’s Liverpool John Moores university, recounts the story with enormous verve and gripping detail.</p>"
+      },
+      "category": "History",
+      "book": {
+        "author": "Gillian O'Brien",
+        "title": "Blood Runs Green",
+        "fulltitle": "Blood Runs Green: The Murder That Transfixed Gilded Age Chicago",
+        "publisher": "University of Chicago Press",
+        "year": 2015,
+        "isbn": "022624895X",
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Tony Barber",
+        "bylineposition": "FT's Europe editor",
+        "copy": "<p>At the 1919 Paris peace conference, the nations that emerged victorious from the first world war agreed to govern conquered territories under mandates from the League of Nations. In her path-breaking study Susan Pedersen, a Columbia University historian, explores the tensions that arose from the collision of old-style imperialism with colonial nationalism and a new international bureaucratic order.</p>"
+      },
+      "category": "History",
+      "book": {
+        "author": "Susan Pedersen",
+        "title": "The Guardians",
+        "fulltitle": "The Guardians: The League and the Crisis of Empire",
+        "publisher": "Oxford University Press",
+        "year": 2015,
+        "isbn": 199730032,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Martin Wolf",
+        "bylineposition": "FT's chief economics commentator",
+        "copy": "<p>Atkinson is the doyen of those scholars who have focused on trends in inequality over the past half-century. In this important book, he focuses not so much on what has happened or why, but on what to do about it, particularly in his own country, the UK. The result is a comprehensive and challenging set of proposals for action, including substantially higher taxation and greater redistribution of wealth. The Labour party, currently bereft of confidence and ideas, needs to study what Atkinson recommends.</p>"
+      },
+      "category": "Economics",
+      "book": {
+        "author": "Anthony Atkinson",
+        "title": "Inequality: What Can be Done?",
+        "fulltitle": null,
+        "publisher": "Harvard University Press",
+        "year": 2015,
+        "isbn": 674504763,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Martin Wolf",
+        "bylineposition": "FT's chief economics commentator",
+        "copy": "<p>Ben Bernanke was in charge of the world’s most important central bank during the world’s biggest financial crisis for almost 80 years. A distinguished scholar of the Great Depression, Bernanke was the right man to be in charge of US monetary policy at that time. In this book, he gives a compelling account of what he and the Federal Reserve did and why they did it. The book also provides reflections on the lessons. He is insufficiently radical on finance. But his defence of the Fed against its misguided critics is compelling.</p>"
+      },
+      "category": "Economics",
+      "book": {
+        "author": "Ben Bernanke",
+        "title": "The Courage to Act",
+        "fulltitle": "The Courage to Act: A Memoir of the Crisis and its Aftermath",
+        "publisher": "W.W. Norton",
+        "year": 2015,
+        "isbn": "039324721X",
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Martin Wolf",
+        "bylineposition": "FT's chief economics commentator",
+        "copy": "<p>Bourguignon’s focus is global, not local, and is more on what has happened to inequality than on what to do about it. This makes it a valuable complement to Atkinson’s book. Crucially, Bourguignon points to some good news: inequality has been falling among households at a global level, albeit from extremely high levels, and there have been impressive reductions in the proportion of the world’s population living in extreme poverty.</p>"
+      },
+      "category": "Economics",
+      "book": {
+        "author": "François Bourguignon (Translated by Thomas Scott-Railton)",
+        "title": "The Globalization of Inequality",
+        "fulltitle": null,
+        "publisher": "Princeton University Press",
+        "year": 2015,
+        "isbn": "069116052X",
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Martin Wolf",
+        "bylineposition": "FT's chief economics commentator",
+        "copy": "<p>The public sector balance sheet does not only have liabilities. It also has assets. Managing those assets well is at least as important as managing the liabilities. In this important book, the authors show how big, undervalued and mismanaged public assets general are. Using those assets more productively is vital for both the state and the wider society. This does not always require privatisation. But it does require a sober look at how to get the best possible social return.</p>"
+      },
+      "category": "Economics",
+      "book": {
+        "author": "Dag Detter and Stefan Fölster",
+        "title": "The Public Wealth of Nations",
+        "fulltitle": null,
+        "publisher": "Palgrave Macmillan",
+        "year": 2015,
+        "isbn": 1137519843,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Martin Wolf",
+        "bylineposition": "FT's chief economics commentator",
+        "copy": ""
+      },
+      "category": "Economics",
+      "book": {
+        "author": "Martin Ford",
+        "title": "The Rise of the Robots",
+        "fulltitle": "The Rise of the Robots: Technology and the Threat of a Jobless Future",
+        "publisher": "Basic Books",
+        "year": 2015,
+        "isbn": 1780747497,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Martin Wolf",
+        "bylineposition": "FT's chief economics commentator",
+        "copy": "<p>“The finance sector of modern Western economies is too large. . . Its growth has not been matched by corresponding improvements in the provision of services to the non-financial economy.” In this excellent book, John Kay, a fellow columnist on the FT, explains how this came about and what to do about it. The most important conclusions are that the financial sector must be made smaller and simpler. It must become a servant of the economy, not its greedy master.</p>"
+      },
+      "category": "Economics",
+      "book": {
+        "author": "John Kay",
+        "title": "Other People's Money",
+        "fulltitle": "Other People's Money: Masters of the Universe or Servants of the People",
+        "publisher": "Profile Books",
+        "year": 2015,
+        "isbn": 1781254435,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Martin Wolf",
+        "bylineposition": "FT's chief economics commentator",
+        "copy": "<p>Those who do not learn from history are condemned to repeat it. Eric Rauchway argues that misguided fear of inflation prevented adoption of the fiscal and monetary stimulus needed to secure a rapid recovery from the Great Recession. Unfortunately, he argues, the success in saving the banks in the autumn of 2008 reduced the political urgency of saving the economy. Today’s unhappy result is feeble economies and barely-reformed financial systems. We have, alas, forgotten what Roosevelt and Keynes knew.</p>"
+      },
+      "category": "Economics",
+      "book": {
+        "author": "Eric Rauchway",
+        "title": "The Money Makers",
+        "fulltitle": "The Money Makers: How Roosevelet and Keynes Ended the Depression, Defeated Fascism, and Secured a Prosperous Peace",
+        "publisher": "Basic Books",
+        "year": 2015,
+        "isbn": 465049699,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Martin Wolf",
+        "bylineposition": "FT's chief economics commentator",
+        "copy": "<p>After the financial crisis, economics is in the doghouse. Dani Rodrik, one of the world’s most perceptive policy analysts, wants it let out again, albeit on a leash. “Economists who remain true to their discipline. . . are necessarily humble,” argues Rodrik. One should, he insists, regard economics as “a collection of models”, not as a single grand, overarching theory. The economist’s art lies in knowing which model is appropriate to the task at hand.</p>"
+      },
+      "category": "Economics",
+      "book": {
+        "author": "Dani Rodrik",
+        "title": "Economics Rules",
+        "fulltitle": "Economics Rules: The Rights and Wrongs of the Dismal Science",
+        "publisher": "W.W. Norton",
+        "year": 2015,
+        "isbn": 393246418,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Martin Wolf",
+        "bylineposition": "FT's chief economics commentator",
+        "copy": "<p>Sachs is a prophet calling upon humanity to create a better world. This would, he argues, have two main characteristics: we would have largely banished the scourges of destitution and disease; and we would have made the activities upon which humanity depends indefinitely sustainable. In Sachs’s view, both of these goals are now eminently attainable — but we are “far off course”.</p>"
+      },
+      "category": "Economics",
+      "book": {
+        "author": "Jeffrey Sachs",
+        "title": "The Age of Sustainable Development",
+        "fulltitle": null,
+        "publisher": "University Press",
+        "year": 2015,
+        "isbn": 231173156,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Martin Wolf",
+        "bylineposition": "FT's chief economics commentator",
+        "copy": "<p>My FT colleague, Martin Sandbu, seeks to rescue the euro from obloquy. His argument is that it is not the euro but mistaken policy that has caused the economic and political crisis of the eurozone. Monetary union does not need fiscal and political union. It needs debt restructuring. The book provides a sophisticated “liquidationist” alternative to the dominant rhetoric, which insists that the only alternatives are further integration or dissolution. One might not be convinced. But this book provides an invaluable riposte to conventional wisdom.</p>"
+      },
+      "category": "Economics",
+      "book": {
+        "author": "Martin Sandbu",
+        "title": "Europe's Orphan",
+        "fulltitle": "Europe's Orphan: The Future of the Euro and the Politics of Debt",
+        "publisher": "Princeton University Press",
+        "year": 2015,
+        "isbn": "069116830X",
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Martin Wolf",
+        "bylineposition": "FT's chief economics commentator",
+        "copy": "<p>Lord Stern was author of the eponymous <em>Stern Review on the Economics of Climate Change</em> published in 2007. In this follow-up, he argues strongly that we are continuing to underestimate the potential costs of inaction. It is time to take decisive action, he asserts, not only because the costs of failing to do so could be huge, but also because the costs of the needed actions are themselves becoming ever smaller.</p>"
+      },
+      "category": "Economics",
+      "book": {
+        "author": "Nicholas Stern",
+        "title": "Why are We Waiting?",
+        "fulltitle": "Why are We Waiting? The Logic, Urgency, and Primise of Tackling Climate Change",
+        "publisher": "MIT Press",
+        "year": 2015,
+        "isbn": 262029189,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Martin Wolf",
+        "bylineposition": "FT's chief economics commentator",
+        "copy": "<p>This enjoyable book describes the role of the author in the making of an intellectual counter-revolution: the rise of “behavioural economics”. Not so long ago, right-thinking economists focused their attention on an imaginary species of sociopaths, rational maximisers whom Thaler calls “Econs”. Actual people, however, whom he calls “Humans”, are vastly more interesting. Humans make predictable errors. Thaler explains how much we have learnt about the mistakes we humans are apt to make.</p>"
+      },
+      "category": "Economics",
+      "book": {
+        "author": "Richard Thaler",
+        "title": "Misbehaving",
+        "fulltitle": "Misbehaving: The Making of Behavioural Economics",
+        "publisher": "Allen Lane",
+        "year": 2015,
+        "isbn": 1846144035,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Martin Wolf",
+        "bylineposition": "FT's chief economics commentator",
+        "copy": "<p>Adair Turner, former chairman of the Financial Services Authority, provides a brilliant analysis of the fragility of our debt-fuelled economies. History has shown that the confidence in the benefits of financial liberalisation and the stability offered by inflation-targeting was a “fatal conceit”. Friedrich Hayek had applied this phrase to socialist planning. But belief in the free market rested on essentially the same mistake. Both ways of thinking are utopian and, as such, fundamentally mistaken.</p>"
+      },
+      "category": "Economics",
+      "book": {
+        "author": "Adair Turner",
+        "title": "Between Debt and the Devil",
+        "fulltitle": "Between Debt and the Devil: Money, Credit, and Fixing Global Finance",
+        "publisher": "Princeton University Press",
+        "year": 2015,
+        "isbn": 691169640,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Martin Wolf",
+        "bylineposition": "FT's chief economics commentator",
+        "copy": "<p>We insure our lives against an uncertain future; so why not our planet? That is the question addressed in this lively and thought-provoking book. The challenge of climate change should be seen as one of managing an inherently uncertain future. The authors show that among the possible outcomes of the path we are on are extreme climate changes. Rational and far-sighted policymakers would wish to eliminate such possibilities. Yet if we are to achieve that goal, we need to act now. Only the extremely myopic would behave as if a distant and potentially catastrophic risk were a non-existent one.</p>"
+      },
+      "category": "Economics",
+      "book": {
+        "author": "Gernot Wagner and Martin Weitzman",
+        "title": "Climate Shock",
+        "fulltitle": "Climate Shock: The Economic Consequences of a Hotter Planet",
+        "publisher": "Princeton University Press",
+        "year": 2015,
+        "isbn": 691159475,
+        "image": "climate-shock.jpg"
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Andrew Hill",
+        "bylineposition": "FT's management editor",
+        "copy": "<p>Ford’s chilling message in <em>The Rise of the Robots</em> – winner of this year’s Financial Times and McKinsey Business Book of the Year Award – is that the transition to a less labour-intensive economy will be miserable and even dangerous as inequality, technological unemployment and climate change collide. Radical solutions are needed – his proposals include a basic income guarantee for all – but Ford warns that the rapid advance of automation means “the future may arrive long before we are ready”.</p>"
+      },
+      "category": "Business",
+      "book": {
+        "author": "Martin Ford",
+        "title": "The Rise of the Robots",
+        "fulltitle": "The Rise of the Robots: Technology and the Threat of a Jobless Future",
+        "publisher": "Basic Books",
+        "year": 2015,
+        "isbn": 1780747497,
+        "image": "rise-of-the-robots.jpg"
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Andrew Hill",
+        "bylineposition": "FT's management editor",
+        "copy": "<p>By concentrating on a few significant characters – from Doug Morris, the tycoon at the top of the recorded music tree, to the energetic and highly organised pirates at the bottom – Witt maps out how an entire industry was turned on its head by file-sharing technology. A tour de force of reporting, <em>How Music Got Free</em> is also a colourful cautionary tale for any established business facing digital disruption.</p>"
+      },
+      "category": "Business",
+      "book": {
+        "author": "Stephen Witt",
+        "title": "How Music Got Free",
+        "fulltitle": "How Music Got Free: What Happens When an Entire Generation Commits the Same Crime?",
+        "publisher": "Bodley Head/ Viking",
+        "year": 2015,
+        "isbn": 525426612,
+        "image": "baubles-long.png"
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Andrew Hill",
+        "bylineposition": "FT's management editor",
+        "copy": "<p>This book is about financial crises and how, in trying to avoid them, regulators and central bankers sometimes create the conditions that cause them. But Ip explains this compelling paradox through entertaining and provocative parallels with the worlds of civil aviation, flood management and forestry. Sometimes, he points out, it is better to allow a small fire to burn than to extinguish it and risk a bigger conflagration.</p>"
+      },
+      "category": "Business",
+      "book": {
+        "author": "Greg Ip",
+        "title": "Foolproof",
+        "fulltitle": "Foolproof: Why Safety Can be Dangerous and How Danger Makes Us Safe",
+        "publisher": "Headline/ Little Brown",
+        "year": 2015,
+        "isbn": 316286044,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Andrew Hill",
+        "bylineposition": "FT's management editor",
+        "copy": "<p>Now in his eighties, management thinker Handy continues to probe and provoke with a series of revolutionary suggestions about how individuals and institutions should take a leap and renew themselves before their “first curve” of development dips downwards. The simplicity of his prose belies the sheer ambition of some of the ideas for reform – dismantle multinationals, redesign the UK Parliament – each of which could merit a book in itself.</p>"
+      },
+      "category": "Business",
+      "book": {
+        "author": "Charles Handy",
+        "title": "The Second Curve",
+        "fulltitle": "The Second Curve: Thoughts on Reinventing Society",
+        "publisher": "Random House",
+        "year": 2015,
+        "isbn": "184794132X",
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Andrew Hill",
+        "bylineposition": "FT's management editor",
+        "copy": "<p>The tale of how a talented engineer and an ambitious salesman created the signature business communications device of the early 2000s is ably told by McNish and Silcoff. Their blow-by-blow account lays out just how much co-CEOs Mike Lazaridis and Jim Balsillie got right in building and selling the device – and then how badly they got their reaction to the all-conquering iPhone wrong.</p>"
+      },
+      "category": "Business",
+      "book": {
+        "author": "Jacquie McNish and Sean Silcoff",
+        "title": "Losing the Signal",
+        "fulltitle": "Losing the Signal: The Untold Story behind the Extraordinary Rise and Spectacular Fall of BlackBerry",
+        "publisher": "Flatiron Books",
+        "year": 2015,
+        "isbn": 1250060176,
+        "image": "losing-the-signal.jpg"
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Andrew Hill",
+        "bylineposition": "FT's management editor",
+        "copy": "<p>An alternative vision to that laid out by Sheryl Sandberg’s <em>Lean In</em>, this book is a more nuanced account of the hurdles facing women in the workplace. Ranging widely from the latest research to her personal struggle to negotiate the obstacle course of academia and public policy, Slaughter points out that the problem is not, <em>pace</em> Sandberg, with women, but with work. Specifically, employers, engrained leadership habits and policies need to change in order to allow women to advance freely.</p>"
+      },
+      "category": "Business",
+      "book": {
+        "author": "Anne-Marie Slaughter",
+        "title": "Unfinished Business",
+        "fulltitle": "Unfinished Business: Women Men Work Family",
+        "publisher": "Oneworld/ Random House",
+        "year": 2015,
+        "isbn": 812994566,
+        "image": "bells.png"
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Andrew Hill",
+        "bylineposition": "FT's management editor",
+        "copy": "<p>This timely first draft of the history of a new crypto-currency provides as reliable a guide to the rise of bitcoin as is possible, given the anarchy surrounding its creation, its volatile evolution and unpredictable future. Many of those involved in its foundation – including its creator – remain elusive, despite Popper’s persistence, but this is a fine explanation of the significance of the innovation and its underlying technology, the blockchain.</p>"
+      },
+      "category": "Business",
+      "book": {
+        "author": "Nathaniel Popper",
+        "title": "Digital Gold",
+        "fulltitle": "Digital Gold: The Untold Story of Bitcoin",
+        "publisher": "Allen Lane/ Harper",
+        "year": 2015,
+        "isbn": 241180619,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Andrew Hill",
+        "bylineposition": "FT's management editor",
+        "copy": "<p>In the latest book to illuminate the state of modern China through its citizens’ fast-growing obsessions (golf, art and now wine), Mustacich examines Chinese nouveaux-riches’ passion for sought-after French vintages, and the parallel growth of a domestic wine industry. Jamil Anderlini, reviewing the book for the FT, praised its eye-opening “examples of how the world’s most populous country is influencing communities and markets all over the world”.</p>"
+      },
+      "category": "Business",
+      "book": {
+        "author": "Suzanne Mustacich",
+        "title": "Thirsty Dragon",
+        "fulltitle": "Thirsty Dragon: China’s Lust for Bordeaux and the Threat to the World’s Best Wines",
+        "publisher": "Bloomsbury",
+        "year": 2015,
+        "isbn": "162779087X",
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Andrew Hill",
+        "bylineposition": "FT's management editor",
+        "copy": "<p>Reading this history of Monopoly may be the ideal way to pass the time while waiting for procrastinating fellow players to complete their turn. An entertaining account of the inventors and marketers who backed the original idea, the book underlines the irony that a game that rewards the best monopolist started as a moral tale of trust-busting. John Gapper, writing in the FT, praised Pilon’s “prodigious” research into a surprisingly complex story.</p>"
+      },
+      "category": "Business",
+      "book": {
+        "author": "Mary Pilon",
+        "title": "The Monopolists",
+        "fulltitle": "The Monopolists: Obsession, Fury, and the Scandal behind the World’s Favourite Board Game",
+        "publisher": "Bloomsbury",
+        "year": 2015,
+        "isbn": 1608199630,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Andrew Hill",
+        "bylineposition": "FT's management editor",
+        "copy": "<p>From Sony to Facebook, the US editor of the Financial Times uses colourful examples to show how reinforcing the walls between different parts of organisations can lead to disaster and, conversely, how “silo-busting” can liberate creativity and ideas. A few dividing lines are necessary for groups of any size to function, so one of the underlying messages is that maintaining a healthy culture requires constant vigilance and effort.</p>"
+      },
+      "category": "Business",
+      "book": {
+        "author": "Gillian Tett",
+        "title": "The Silo Effect",
+        "fulltitle": "The Silo Effect: The Peril of Expertise and the Promise of Breaking Down Barriers",
+        "publisher": "Little Brown/ Simon & Schuster",
+        "year": 2015,
+        "isbn": 1451644736,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Gideon Rachman",
+        "bylineposition": "FT's chief foreign affairs commentator",
+        "copy": "<p>A beautifully written and painstakingly researched biography, which covers the years from 1983 to 1987, when “Thatcherism” was at its zenith. Moore’s account covers dramatic events, such as the miners’ strike and the Brighton bombing, and innovative policies, such as privatisation.</p>"
+      },
+      "category": "Politics",
+      "book": {
+        "author": "Charles Moore",
+        "title": "Margaret Thatcher",
+        "fulltitle": "Margaret Thatcher: The Authorised Biography, Volume Two: Everything She Wants",
+        "publisher": "Allen Lane",
+        "year": 2015,
+        "isbn": 713992883,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Gideon Rachman",
+        "bylineposition": "FT's chief foreign affairs commentator",
+        "copy": "<p>A novel would not normally be included in the politics books of the year, but the publication of Houellebecq’s controversial novel, which features the election of an Islamist president in France in 2022, was a political event in itself. The book is brilliant, funny, perceptive and deliberately offensive – and offers a sharp insight into the troubles of modern France.</p>"
+      },
+      "category": "Politics",
+      "book": {
+        "author": "Michel Houellebecq",
+        "title": "Submission",
+        "fulltitle": null,
+        "publisher": "William Heinemann/ Farrar, Straus & Giroux",
+        "year": 2015,
+        "isbn": 374271577,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Gideon Rachman",
+        "bylineposition": "FT's chief foreign affairs commentator",
+        "copy": "<p>A vivid and convincing account of the evolution of modern Russia, by The Economist’s ex-bureau chief in Moscow, and a former FT journalist. Ostrovsky shows how the liberal dreams of the Gorbachev era gave way to the authoritarian nationalism of the Putin period.</p>"
+      },
+      "category": "Politics",
+      "book": {
+        "author": "Arkady Ostrovsky",
+        "title": "The Invention of Russia",
+        "fulltitle": "The Invention of Russia: The Journey from Gorbachev’s Freedom to Putin’s War",
+        "publisher": "Atlantic",
+        "year": 2015,
+        "isbn": 857891596,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Gideon Rachman",
+        "bylineposition": "FT's chief foreign affairs commentator",
+        "copy": "<p>A vivid insider’s account of America’s failed effort to rebuild Iraq by a critical, but sympathetic, British adviser, embedded with US forces. Shortlisted for the Samuel Johnson Prize.</p>"
+      },
+      "category": "Politics",
+      "book": {
+        "author": "Emma Sky",
+        "title": "The Unravelling",
+        "fulltitle": "The Unravelling: High Hopes and Missed Opportunities in Iraq",
+        "publisher": "Atlantic/ Public Affairs",
+        "year": 2015,
+        "isbn": "161039593X",
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Gideon Rachman",
+        "bylineposition": "FT's chief foreign affairs commentator",
+        "copy": "<p>Journalist Lamb first started covering Afghanistan when the mujahideen were fighting the Russians. Here she delivers a detailed, painful and convincing account of how and why the west failed in Afghanistan.</p>"
+      },
+      "category": "Politics",
+      "book": {
+        "author": "Christina Lamb",
+        "title": "Farewell Kabul",
+        "fulltitle": "Farewell Kabul: From Afghanistan to A More Dangerous World",
+        "publisher": "William Collins",
+        "year": 2015,
+        "isbn": 7256922,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Gideon Rachman",
+        "bylineposition": "FT's chief foreign affairs commentator",
+        "copy": "<p>Putnam, one of America’s leading political scientists, tackles rising inequality in the US and its effect on the “American Dream”. Through a mix of anecdote and data, he shows how the loss of well-paid jobs in manufacturing has wrought social havoc.</p>"
+      },
+      "category": "Politics",
+      "book": {
+        "author": "Robert Putnam",
+        "title": "Our Kids: The American Dream in Crisis",
+        "fulltitle": null,
+        "publisher": "Simon & Schuster",
+        "year": 2015,
+        "isbn": 1476769893,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Gideon Rachman",
+        "bylineposition": "FT's chief foreign affairs commentator",
+        "copy": "<p>Bell, a Canadian philosopher based at Tsinghua University in Beijing, argues that there is a “crisis of governance in western democracies” and makes the controversial argument that China offers a superior model – in which leaders are selected on merit rather than by the electorate.</p>"
+      },
+      "category": "Politics",
+      "book": {
+        "author": "Daniel Bell",
+        "title": "The China Model",
+        "fulltitle": "The China Model – Political Meritocracy and the Limits of Democracy",
+        "publisher": "Princeton University Press",
+        "year": 2015,
+        "isbn": 691166455,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Gideon Rachman",
+        "bylineposition": "FT's chief foreign affairs commentator",
+        "copy": "<p>The book’s thesis is conveyed by its sub-title – “warlords, tycoons, smugglers and the systematic theft of Africa’s wealth”. Burgis, who worked as an FT correspondent in Africa, presents an unsparing portrait of the corruption that is blighting the continent.</p>"
+      },
+      "category": "Politics",
+      "book": {
+        "author": "Tom Burgis",
+        "title": "The Looting Machine",
+        "fulltitle": "The Looting Machine - Warlords, tycoons, smugglers and the systematic theft of Africa’s wealth",
+        "publisher": "William Collins",
+        "year": 2015,
+        "isbn": 7523092,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Clive Cookson",
+        "bylineposition": "FT's science editor",
+        "copy": ""
+      },
+      "category": "Science",
+      "book": {
+        "author": null,
+        "title": null,
+        "fulltitle": null,
+        "publisher": null,
+        "year": null,
+        "isbn": null,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Jackie Wullschlager",
+        "bylineposition": "FT's chief visual arts critic",
+        "copy": ""
+      },
+      "category": "Art",
+      "book": {
+        "author": "Karl Schütz",
+        "title": "Vermeer: The Complete Works",
+        "fulltitle": null,
+        "publisher": "Taschen",
+        "year": 2015,
+        "isbn": 3836536412,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Jackie Wullschlager",
+        "bylineposition": "FT's chief visual arts critic",
+        "copy": ""
+      },
+      "category": "Art",
+      "book": {
+        "author": "Michael Peppiatt",
+        "title": "Francis Bacon in Your Blood",
+        "fulltitle": "Francis Bacon in Your Blood: A Memoir",
+        "publisher": "Bloomsbury",
+        "year": 2015,
+        "isbn": 1408856247,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Jackie Wullschlager",
+        "bylineposition": "FT's chief visual arts critic",
+        "copy": ""
+      },
+      "category": "Art",
+      "book": {
+        "author": "The Art And Exhibition Hall Of The Federal Republic Of Germany",
+        "title": "Japan's Love for Impressionism",
+        "fulltitle": "Japan's Love for Impressionism: From Monet to Renoir",
+        "publisher": "Prestel",
+        "year": 2015,
+        "isbn": 3791354965,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Jackie Wullschlager",
+        "bylineposition": "FT's chief visual arts critic",
+        "copy": ""
+      },
+      "category": "Art",
+      "book": {
+        "author": "Christopher Lloyd",
+        "title": "Paul Cézanne: Drawings and Watercolours",
+        "fulltitle": null,
+        "publisher": "Thames & Hudson",
+        "year": 2015,
+        "isbn": 500093873,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Jackie Wullschlager",
+        "bylineposition": "FT's chief visual arts critic",
+        "copy": ""
+      },
+      "category": "Art",
+      "book": {
+        "author": "Catherine Lampert",
+        "title": "Frank Auerbach: Speaking and Painting",
+        "fulltitle": null,
+        "publisher": "Thames & Hudson",
+        "year": 2015,
+        "isbn": 500239258,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Edwin Heathcote",
+        "bylineposition": "FT's architecture critic",
+        "copy": ""
+      },
+      "category": "Architecture and design",
+      "book": {
+        "author": null,
+        "title": null,
+        "fulltitle": null,
+        "publisher": null,
+        "year": null,
+        "isbn": null,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Danny Leigh",
+        "bylineposition": "Film writer",
+        "copy": ""
+      },
+      "category": "Film",
+      "book": {
+        "author": "Shinobu Hashimoto",
+        "title": "Akira Kurosawa and I",
+        "fulltitle": null,
+        "publisher": "Vertical",
+        "year": 2015,
+        "isbn": 1939130573,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Danny Leigh",
+        "bylineposition": "Film writer",
+        "copy": ""
+      },
+      "category": "Film",
+      "book": {
+        "author": "Brian Neve",
+        "title": "The Many Lives of Cy Endfield",
+        "fulltitle": "The Many Lives of Cy Endfield: Film Noir, The Blacklist and Zulu",
+        "publisher": "University of Winsconsin Press",
+        "year": 2015,
+        "isbn": 299303748,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Danny Leigh",
+        "bylineposition": "Film writer",
+        "copy": ""
+      },
+      "category": "Film",
+      "book": {
+        "author": "Peter Ackroyd",
+        "title": "Alfred Hitchcock",
+        "fulltitle": null,
+        "publisher": "Chatto & Windus",
+        "year": 2015,
+        "isbn": 701169931,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Danny Leigh",
+        "bylineposition": "Film writer",
+        "copy": ""
+      },
+      "category": "Film",
+      "book": {
+        "author": "Mollie Gregory",
+        "title": "Stuntwoman",
+        "fulltitle": "Stuntwoman: The Untold Hollywood Story",
+        "publisher": "University of Winsconsin Press",
+        "year": 2015,
+        "isbn": 813166225,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Richard Fairman",
+        "bylineposition": "FT's chief classical music critic",
+        "copy": ""
+      },
+      "category": "Classical music and opera",
+      "book": {
+        "author": null,
+        "title": null,
+        "fulltitle": null,
+        "publisher": null,
+        "year": null,
+        "isbn": null,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Ludovic Hunter-Tilney",
+        "bylineposition": "FT's pop critic",
+        "copy": ""
+      },
+      "category": "Pop",
+      "book": {
+        "author": null,
+        "title": null,
+        "fulltitle": null,
+        "publisher": null,
+        "year": null,
+        "isbn": null,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Jo Ellison",
+        "bylineposition": "FT's fashion editor",
+        "copy": ""
+      },
+      "category": "Fashion and style",
+      "book": {
+        "author": null,
+        "title": null,
+        "fulltitle": null,
+        "publisher": null,
+        "year": null,
+        "isbn": null,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Carol Wilkinson",
+        "bylineposition": "Books critic",
+        "copy": ""
+      },
+      "category": "Literary Non-fiction",
+      "book": {
+        "author": null,
+        "title": null,
+        "fulltitle": null,
+        "publisher": null,
+        "year": null,
+        "isbn": null,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Neville Hawcock",
+        "bylineposition": "FT's deputy books editor",
+        "copy": ""
+      },
+      "category": "Fiction",
+      "book": {
+        "author": null,
+        "title": null,
+        "fulltitle": null,
+        "publisher": null,
+        "year": null,
+        "isbn": null,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Angel Gurria-Quintana",
+        "bylineposition": "Books critic",
+        "copy": ""
+      },
+      "category": "Fiction in translation",
+      "book": {
+        "author": null,
+        "title": null,
+        "fulltitle": null,
+        "publisher": null,
+        "year": null,
+        "isbn": null,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Maria Crawford",
+        "bylineposition": "FT's assistant arts editor",
+        "copy": ""
+      },
+      "category": "Poetry",
+      "book": {
+        "author": null,
+        "title": null,
+        "fulltitle": null,
+        "publisher": null,
+        "year": null,
+        "isbn": null,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Tom Robbins",
+        "bylineposition": "FT's travel editor",
+        "copy": ""
+      },
+      "category": "Travel",
+      "book": {
+        "author": null,
+        "title": null,
+        "fulltitle": null,
+        "publisher": null,
+        "year": null,
+        "isbn": null,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Simon Kuper",
+        "bylineposition": "FT columnist",
+        "copy": ""
+      },
+      "category": "Sport",
+      "book": {
+        "author": null,
+        "title": null,
+        "fulltitle": null,
+        "publisher": null,
+        "year": null,
+        "isbn": null,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Tim Hayward",
+        "bylineposition": "Contributing writer",
+        "copy": ""
+      },
+      "category": "Food",
+      "book": {
+        "author": null,
+        "title": null,
+        "fulltitle": null,
+        "publisher": null,
+        "year": null,
+        "isbn": null,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Jane Owen",
+        "bylineposition": "FT's House & Home editor",
+        "copy": ""
+      },
+      "category": "Gardens",
+      "book": {
+        "author": "Annie Martin",
+        "title": "The Magical World of Moss Gardening",
+        "fulltitle": null,
+        "publisher": "Timber Press",
+        "year": 2015,
+        "isbn": 1604696478,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Jane Owen",
+        "bylineposition": "FT's House & Home editor",
+        "copy": ""
+      },
+      "category": "Gardens",
+      "book": {
+        "author": "Caroline Holmes",
+        "title": "Water Lilies",
+        "fulltitle": "Water Lilies: And Bory Latour-Marliac, the Genius Behind Monet's Water Lilies",
+        "publisher": "Garden Art Press",
+        "year": 2015,
+        "isbn": 1870673832,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Jane Owen",
+        "bylineposition": "FT's House & Home editor",
+        "copy": ""
+      },
+      "category": "Gardens",
+      "book": {
+        "author": "R. William Thomas",
+        "title": "The Art of Gardening",
+        "fulltitle": "The Art of Gardening: Design Inspiration and Innovative Planting Techniques from Chanticleer",
+        "publisher": "Timber Press",
+        "year": 2015,
+        "isbn": 1604695447,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Jane Owen",
+        "bylineposition": "FT's House & Home editor",
+        "copy": ""
+      },
+      "category": "Gardens",
+      "book": {
+        "author": "Tim Richardson",
+        "title": "Oxford College Gardens",
+        "fulltitle": null,
+        "publisher": "Frances Lincolm",
+        "year": 2015,
+        "isbn": 711232180,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Jane Owen",
+        "bylineposition": "FT's House & Home editor",
+        "copy": ""
+      },
+      "category": "Gardens",
+      "book": {
+        "author": null,
+        "title": null,
+        "fulltitle": null,
+        "publisher": null,
+        "year": null,
+        "isbn": null,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Barry Forshaw",
+        "bylineposition": "Books critic",
+        "copy": ""
+      },
+      "category": "Crime",
+      "book": {
+        "author": null,
+        "title": null,
+        "fulltitle": null,
+        "publisher": null,
+        "year": null,
+        "isbn": null,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Barry Forshaw",
+        "bylineposition": null,
+        "copy": ""
+      },
+      "category": "Crime",
+      "book": {
+        "author": null,
+        "title": null,
+        "fulltitle": null,
+        "publisher": null,
+        "year": null,
+        "isbn": null,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "James Lovegrove",
+        "bylineposition": "Books critic",
+        "copy": ""
+      },
+      "category": "Science Fiction",
+      "book": {
+        "author": null,
+        "title": null,
+        "fulltitle": null,
+        "publisher": null,
+        "year": null,
+        "isbn": null,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Suzi Feay",
+        "bylineposition": "Books critic",
+        "copy": ""
+      },
+      "category": "Young adult",
+      "book": {
+        "author": null,
+        "title": null,
+        "fulltitle": null,
+        "publisher": null,
+        "year": null,
+        "isbn": null,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    }
+  ]
+}
