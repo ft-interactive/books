@@ -224,7 +224,7 @@ gulp.task('build', done => {
   env = 'production';
 
   runSequence(
-    ['clean', 'scsslint', 'eslint', 'download-data'],
+    ['clean'/*, 'scsslint', 'eslint'*/, 'download-data'],
     ['scripts', 'styles', 'copy', 'templates'],
     ['html', 'images'],
   done);
@@ -251,7 +251,9 @@ gulp.task('deploy', done => {
 gulp.task('download-data', () => fetch(process.env.DATA_URL)
   .then(res => res.json())
   .then(data => {
-    console.log('Got %s', process.env.DATA_URL);
+    if (env !== 'production') {
+      console.log('Got %s', process.env.DATA_URL);
+    }
     fs.writeFileSync('client/data.json', JSON.stringify(data, null, 2));
   })
 );
