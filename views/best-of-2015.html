@@ -28,8 +28,16 @@
 <main>
   <div class="section__wrapper">
     {% for slug, category in categories %}
-      <section class="section">
-        <header id="{{slug}}-books" class="section__header{% if category.image %} section__header--image" style="background-image:url('../images/{{category.image}}.png');{% endif %}">
+    {% if category.image %}
+          <style>
+          #{{slug}}-books.section__header--image:before{
+            background-image:url('../images/{{category.image.url}}.png');
+            padding-top:{{category.image.ratio}}%;
+          }
+          </style>
+        {% endif %}
+      <section class="section{% if category.books.length < 3 %} section--minor{% endif %}">
+        <header id="{{slug}}-books" class="section__header{% if category.image %} section__header--image{% endif %}">
           <h2 class="section__title">{{category.name}}</h2><p class="section__subtitle">{{ category.reviewer.name}}</p>
         </header>
         <ul>
@@ -44,7 +52,7 @@
               </div>
               {% if book.book.image %}
               <div class="card card--image">
-                <img src="../images/{{ book.book.image }}" alt="">
+                <img src="../images/covers/{{ book.book.image }}" alt="">
               </div>
               {% endif %}
             </li>

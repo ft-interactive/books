@@ -262,6 +262,7 @@ gulp.task('templates', () => {
 
   const env = nunjucks.configure('views');
   const data = processData(JSON.parse(fs.readFileSync('client/data.json', 'utf8')));
+  data.is_prod = env === 'production';
   const slug = 'best-of-2015';
   const html = env.render('best-of-2015.html', data);
   mkdirp.sync(`.tmp/${slug}`);

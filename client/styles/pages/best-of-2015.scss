@@ -61,9 +61,9 @@ body {
   background-position: left top;
   background-size: 1550px auto;
   height: 80%;
-  padding-left: 300px;
+  padding-left: 310px;
   padding-top: 190px;
-  padding-right: 190px;
+  padding-right: 100px;
   font-family: $font-display;
   position: relative;
 
@@ -82,13 +82,15 @@ body {
   }
 
   @include mq($until: tablet) {
-    padding-left: 20px;
+    padding-left: 14px;
     padding-top: 20px;
     background-size: 800px auto;
     padding-right: 20px;
     
-    background-image: url('../../images/night.png');
-    background-size: 240px auto;
+    background-image: url('../../images/frieze-sanslights.jpg');
+    background-size: auto 135%;
+
+
 
     &:before {
       position: absolute;
@@ -103,14 +105,20 @@ body {
       background-repeat: repeat-y;
       background-size: 100% auto;
       background-position: left top;
+
+      @include mq($until: phablet) {
+        width: 110px;
+        top: 57px;
+      }
+
+      @include mq($until: mobile) {
+        width: 94px;
+      }
     }
   }
 
   @include mq($until: phablet) {
-    &:before {
-      width: 115px;
-      top: 57px;
-    }
+    background-size: auto 110%;
   }
 
   &__logo {
@@ -128,7 +136,7 @@ body {
     color: white;
     font-weight: 400;
     margin: 15px 0 25px 0;
-    text-shadow: 0 0 20px rgba(255,255,255,0.3), 0 0 6px rgba(255,255,255,0.66);
+    text-shadow: 0 0 20px rgba(255,255,255,0.34), 0 0 6px rgba(255,255,255,0.5);
 
     @include mq($until: portraittablet) {
       font-size: 130px;
@@ -147,8 +155,14 @@ body {
     }
 
     @include mq($until: phablet) {
-      margin: 25px 0 10px 110px;
+      margin: 25px 0 10px 95px;
+      font-size: 50px;
       text-align: center;
+    }
+
+    @include mq($until: mobile) {
+      margin: 25px 0 10px 85px;
+      font-size: 42px;
     }
   }
 
@@ -175,12 +189,27 @@ body {
     }
 
     @include mq($until: phablet) {
-      font-size: 18px;
-      margin: 25px 0 65px 120px;
+      font-size: 17px;
+      margin: 25px 0 65px 110px;
+    }
+
+    @include mq($until: mobile) {
+      margin-left: 95px;
     }
 
     p {
       margin: .5em 0;
+    }
+
+    a {
+      color: white;
+      text-decoration: none;
+      font-style: italic;
+      letter-spacing: .02em;
+      padding: 3px .3em 3px 0;
+      &:hover {
+        text-shadow: 0 0 6px rgba(255,255,255,0.4);
+      }
     }
 
     a:before {
@@ -191,20 +220,12 @@ body {
       font-size: .6em;
       margin-right: 1px;
     }
-
-    a {
-      color: white;
-      text-decoration: none;
-      font-style: italic;
-      letter-spacing: .02em;
-      padding-right: .3em;
-    }
   }
 }
 
 .section__wrapper {
   display: block;
-  margin-left: 280px;
+  margin-left: 290px;
   margin-top: 30px;
   padding: 0;
 
@@ -229,29 +250,43 @@ body {
   display: inline-block;
   vertical-align: top;
 
+  @include mq($until: phablet) {
+    display: block;
+    clear: both;
+  }
+
   ul {
     margin: 0;
     padding: 0;
   }
 
+  &--minor {
+
+    .section__title {
+      @include mq($from: smalldesktop) {
+        font-size: 34px;
+      }
+    }
+
+  }
+
   &__header {
     font-family: $font-display;
     margin: 0 0 34px 20px;
-    background-size: 0;
-    
+
     @include mq($until: tablet) {
-      margin:20px 20px 20px 20px;
+      margin:20px 15px 20px 15px;
+      padding-top: 10px;
       text-align: center;
 
       &--image:before {
         content: " ";
         display: block;
-        width: 100%;
-        padding-top: 80%;
+        width: 70%;
+        padding-top: inherit;
         max-width: 350px;
         margin: 0 auto 22px auto;
-        background-image: inherit;
-        background-size: 90% auto;
+        background-size: 100% auto;
         background-position: center bottom;
         background-repeat: no-repeat;
       }
@@ -271,7 +306,7 @@ body {
     }
 
     @include mq($until: tablet) {
-      font-size: 40px;
+      font-size: 35px;
     }
   }
 
@@ -346,6 +381,7 @@ body {
 
   @include mq($until: tablet) {
     min-height: 320px;
+    padding: 0 15px;
   }
 
   @include mq($until: phablet) {
@@ -361,7 +397,7 @@ body {
       height: auto;
       display: block;
 
-      @include mq($until: tablet) {
+      @include mq($until: smalldesktop) {
         margin: 0 auto;
       }
     }
@@ -370,7 +406,22 @@ body {
 }
 
 .o-footer {
-  position: absolute;
+  margin-top: 80px;
   z-index: 2;
   width: 100%;
+
+  @include mq($from: tablet) {
+    position: absolute;
+
+    &:before {
+      position: absolute;
+      content: " ";
+      top: -205px;
+      right: 0;
+      display: block;
+      width: 180px;
+      height: 200px;
+      background: url('../../images/books.png') no-repeat top right;
+    }
+  }
 }
