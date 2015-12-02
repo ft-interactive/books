@@ -1,11 +1,4 @@
 {
-  "lists": [
-    {
-      "name": "Christmas 2015",
-      "year": 2015,
-      "uuid": null
-    }
-  ],
   "categories": [
     {
       "name": "History",
@@ -98,6 +91,13 @@
     {
       "name": "Children's",
       "parent": null
+    }
+  ],
+  "lists": [
+    {
+      "name": "Christmas 2015",
+      "year": 2015,
+      "uuid": null
     }
   ],
   "books": [
