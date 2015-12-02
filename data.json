@@ -1,4 +1,11 @@
 {
+  "lists": [
+    {
+      "name": "Christmas 2015",
+      "year": 2015,
+      "uuid": null
+    }
+  ],
   "categories": [
     {
       "name": "History",
@@ -93,13 +100,6 @@
       "parent": null
     }
   ],
-  "lists": [
-    {
-      "name": "Christmas 2015",
-      "year": 2015,
-      "uuid": null
-    }
-  ],
   "books": [
     {
       "list": {
@@ -108,7 +108,9 @@
       "review": {
         "byline": "Tony Barber",
         "bylineposition": "FT's Europe editor",
-        "copy": "<p>Magna Carta, the foundation stone of constitutional government in the English-speaking world, passed its 800th anniversary this year. Stephen Church, professor of medieval history at the University of East Anglia, explains with exemplary clarity how the charter emerged from the military and political struggles of King John’s reign.</p>"
+        "copy": "<p>Magna Carta, the foundation stone of constitutional government in the English-speaking world, passed its 800th anniversary this year. Church explains with exemplary clarity how the charter emerged from the turmoil of King John’s reign.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "History",
       "book": {
@@ -118,7 +120,7 @@
         "publisher": "Basic Books",
         "year": 2015,
         "isbn": 465092993,
-        "image": null
+        "image": "kingjohn.jpg"
       },
       "longreview": {
         "uuid": null
@@ -131,7 +133,9 @@
       "review": {
         "byline": "Tony Barber",
         "bylineposition": "FT's Europe editor",
-        "copy": "<p>David Cressy is the author of several delightful books on the social history of Tudor and Stuart England that draw on curious material buried in the archives. Here the Ohio State University historian investigates what the common people thought of Charles I before the king’s tumultuous reign ended with his beheading in 1649.</p>"
+        "copy": "<p>Cressy is the author of several delightful books on the social history of Tudor and Stuart England that draw on curious material buried in the archives. Here the Ohio State University historian investigates what the common people thought of Charles I before the king’s tumultuous reign ended with his beheading in 1649.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "History",
       "book": {
@@ -141,7 +145,7 @@
         "publisher": "Oxford University Press",
         "year": 2015,
         "isbn": 198708297,
-        "image": null
+        "image": "charlesI.jpg"
       },
       "longreview": {
         "uuid": null
@@ -154,7 +158,9 @@
       "review": {
         "byline": "Tony Barber",
         "bylineposition": "FT's Europe editor",
-        "copy": "<p>New books on the violent dawn of Irish independence are appearing thick and fast as the 100th anniversary of the 1916 Easter Uprising draws near. Diarmaid Ferriter, professor of modern Irish history at University College, Dublin, sets the bar high for good writing and scholarship in this outstanding study.</p>"
+        "copy": "<p>New books on the violent dawn of Irish independence are appearing thick and fast as the 100th anniversary of the 1916 Easter Uprising draws near. Ferriter sets the bar high for good writing and scholarship in this outstanding study.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "History",
       "book": {
@@ -177,7 +183,9 @@
       "review": {
         "byline": "Tony Barber",
         "bylineposition": "FT's Europe editor",
-        "copy": "<p>In 1762, religious conflict flared up on the Dutch-German border when a Catholic woman attempted to kidnap a baby to prevent its baptism in a Protestant church. Kaplan, a professor at University College London, unearthed this episode in the Dutch archives. He paints a lucid, fascinating picture of the Enlightenment as an age of prejudice as much as one of toleration.</p>"
+        "copy": "<p>In 1762, religious conflict flared up on the Dutch-German border when a Catholic woman attempted to kidnap a baby to prevent its baptism in a Protestant church. Kaplan paints a lucid, fascinating picture of the Enlightenment as an age of prejudice as much as one of toleration.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "History",
       "book": {
@@ -200,7 +208,9 @@
       "review": {
         "byline": "Tony Barber",
         "bylineposition": "FT's Europe editor",
-        "copy": "<p>Aristocratic values, imperial mindsets and the emergence of modern nationalisms are the big themes of this illuminating history of late tsarist Russia by Dominic Lieven, professor of Russian studies at the London School of Economics. Lieven writes with all the clarity, conviction and fluent command of sources that readers have come to expect of him.</p>"
+        "copy": "<p>Aristocratic values, imperial mindsets and the emergence of modern nationalisms are the big themes of this illuminating history of late tsarist Russia. Lieven writes with all the clarity, conviction and fluent command of sources that readers have come to expect of him.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "History",
       "book": {
@@ -210,7 +220,7 @@
         "publisher": "Allen Lane/ Viking",
         "year": 2015,
         "isbn": 1846143810,
-        "image": null
+        "image": "towardstheflame.jpg"
       },
       "longreview": {
         "uuid": null
@@ -223,7 +233,9 @@
       "review": {
         "byline": "Tony Barber",
         "bylineposition": "FT's Europe editor",
-        "copy": "<p>The 1889 murder in Chicago of Patrick Henry Cronin, an Irish-American physician and political activist, was one of the great scandals of late 19th-century US public life. Gillian O’Brien, a historian at the UK’s Liverpool John Moores university, recounts the story with enormous verve and gripping detail.</p>"
+        "copy": "<p>The 1889 murder in Chicago of Patrick Henry Cronin, an Irish-American physician and political activist, was one of the great scandals of 19th-century US public life. O’Brien recounts the story with enormous verve.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "History",
       "book": {
@@ -233,7 +245,7 @@
         "publisher": "University of Chicago Press",
         "year": 2015,
         "isbn": "022624895X",
-        "image": null
+        "image": "bloodrunsgreen.jpg"
       },
       "longreview": {
         "uuid": null
@@ -246,7 +258,9 @@
       "review": {
         "byline": "Tony Barber",
         "bylineposition": "FT's Europe editor",
-        "copy": "<p>At the 1919 Paris peace conference, the nations that emerged victorious from the first world war agreed to govern conquered territories under mandates from the League of Nations. In her path-breaking study Susan Pedersen, a Columbia University historian, explores the tensions that arose from the collision of old-style imperialism with colonial nationalism and a new international bureaucratic order.</p>"
+        "copy": "<p>At the 1919 Paris peace conference, the nations that emerged victorious from the first world war agreed to govern conquered territories under mandates from the League of Nations. In her path-breaking study, Pedersen explores the tensions that arose from the collision of old-style imperialism with colonial nationalism and a new international bureaucratic order.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "History",
       "book": {
@@ -267,9 +281,86 @@
         "name": "Christmas 2015"
       },
       "review": {
+        "byline": "Tony Barber",
+        "bylineposition": "FT's Europe editor",
+        "copy": "<p>Spang, author of a highly original 2000 book on French history entitled The Invention of the Restaurant, has done it again. Here she views the French Revolution from new angles by analysing the cultural significance of money at a time of European war, domestic terror and inflation.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "History",
+      "book": {
+        "author": "Rebecca Spang",
+        "title": "Stuff and Money in the Time of the French Revolution",
+        "fulltitle": null,
+        "publisher": "Harvard University Press",
+        "year": null,
+        "isbn": 674047036,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Tony Barber",
+        "bylineposition": "FT's Europe editor",
+        "copy": "<p>If you read one book about the 1915 Armenian genocide, make this it. Suny is one of the western world’s most renowned scholars of the Caucasus region. His account of the fate that befell the Armenians at Ottoman Turkish hands is harrowingly detailed and scrupulously objective.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "History",
+      "book": {
+        "author": "Ronald Grigor Suny",
+        "title": "They Can Live in the Desert but Nowhere Else",
+        "fulltitle": "‘They Can Live in the Desert but Nowhere Else’: A History of the Armenian Genocide",
+        "publisher": "Princeton University Press",
+        "year": null,
+        "isbn": 691147302,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Tony Barber",
+        "bylineposition": "FT's Europe editor",
+        "copy": "<p>Victims of Josef Stalin in 1944, when the Soviet dictator deported them from their homeland, and victims of Vladimir Putin in 2014, when the Russian president annexed the Crimean peninsula from Ukraine, the Crimean Tatars are in dire need of someone to tell their story. Williams does it in compelling style.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "History",
+      "book": {
+        "author": "Brian Glyn Williams",
+        "title": "The Crimean Tatars",
+        "fulltitle": "The Crimean Tatars: From Soviet Genocide to Putin’s Conquest",
+        "publisher": "Hurst/ Oxford University Press",
+        "year": null,
+        "isbn": 1849045186,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
         "byline": "Martin Wolf",
         "bylineposition": "FT's chief economics commentator",
-        "copy": "<p>Atkinson is the doyen of those scholars who have focused on trends in inequality over the past half-century. In this important book, he focuses not so much on what has happened or why, but on what to do about it, particularly in his own country, the UK. The result is a comprehensive and challenging set of proposals for action, including substantially higher taxation and greater redistribution of wealth. The Labour party, currently bereft of confidence and ideas, needs to study what Atkinson recommends.</p>"
+        "copy": "<p>Atkinson is the doyen of those scholars who have focused on trends in inequality over the past half-century. In this important book, he focuses not so much on what has happened or why, but on what to do about it, particularly in the UK. The result is a challenging set of proposals.</p>",
+        "useimage": true,
+        "uuid": "3db94564-ebe2-11e4-b428-00144feab7de"
       },
       "category": "Economics",
       "book": {
@@ -292,7 +383,9 @@
       "review": {
         "byline": "Martin Wolf",
         "bylineposition": "FT's chief economics commentator",
-        "copy": "<p>Ben Bernanke was in charge of the world’s most important central bank during the world’s biggest financial crisis for almost 80 years. A distinguished scholar of the Great Depression, Bernanke was the right man to be in charge of US monetary policy at that time. In this book, he gives a compelling account of what he and the Federal Reserve did and why they did it. The book also provides reflections on the lessons. He is insufficiently radical on finance. But his defence of the Fed against its misguided critics is compelling.</p>"
+        "copy": "<p>Bernanke was at the helm of the world’s most important central bank during the financial crisis of 2007-08. A distinguished scholar of the Great Depression, he was the right man to be in charge of US monetary policy at that time. Here he gives a compelling account of what he and the Federal Reserve did and why they did it. The book also provides reflections on the lessons. He is insufficiently radical on finance. But his defence of the Fed against its critics is compelling.</p>",
+        "useimage": true,
+        "uuid": "ff8f6528-6d20-11e5-8171-ba1968cf791a"
       },
       "category": "Economics",
       "book": {
@@ -315,7 +408,9 @@
       "review": {
         "byline": "Martin Wolf",
         "bylineposition": "FT's chief economics commentator",
-        "copy": "<p>Bourguignon’s focus is global, not local, and is more on what has happened to inequality than on what to do about it. This makes it a valuable complement to Atkinson’s book. Crucially, Bourguignon points to some good news: inequality has been falling among households at a global level, albeit from extremely high levels, and there have been impressive reductions in the proportion of the world’s population living in extreme poverty.</p>"
+        "copy": "<p>Bourguignon’s focus is global, not local, and is more on what has happened to inequality than on what to do about it. This makes it a valuable complement to Atkinson’s book. Crucially, Bourguignon points to some good news: inequality has been falling among households at a global level, albeit from extremely high levels, and there have been impressive reductions in the proportion of the world’s population living in extreme poverty.</p>",
+        "useimage": true,
+        "uuid": "3db94564-ebe2-11e4-b428-00144feab7de"
       },
       "category": "Economics",
       "book": {
@@ -338,7 +433,9 @@
       "review": {
         "byline": "Martin Wolf",
         "bylineposition": "FT's chief economics commentator",
-        "copy": "<p>The public sector balance sheet does not only have liabilities. It also has assets. Managing those assets well is at least as important as managing the liabilities. In this important book, the authors show how big, undervalued and mismanaged public assets general are. Using those assets more productively is vital for both the state and the wider society. This does not always require privatisation. But it does require a sober look at how to get the best possible social return.</p>"
+        "copy": "<p>The public sector balance sheet does not only have liabilities. It also has assets. Managing those assets well is at least as important as managing the liabilities. Here the authors show how big, undervalued and mismanaged public assets generally are.</p>",
+        "useimage": true,
+        "uuid": "d5694e40-2594-11e5-bd83-71cb60e8f08c"
       },
       "category": "Economics",
       "book": {
@@ -361,30 +458,9 @@
       "review": {
         "byline": "Martin Wolf",
         "bylineposition": "FT's chief economics commentator",
-        "copy": ""
-      },
-      "category": "Economics",
-      "book": {
-        "author": "Martin Ford",
-        "title": "The Rise of the Robots",
-        "fulltitle": "The Rise of the Robots: Technology and the Threat of a Jobless Future",
-        "publisher": "Basic Books",
-        "year": 2015,
-        "isbn": 1780747497,
-        "image": null
-      },
-      "longreview": {
-        "uuid": null
-      }
-    },
-    {
-      "list": {
-        "name": "Christmas 2015"
-      },
-      "review": {
-        "byline": "Martin Wolf",
-        "bylineposition": "FT's chief economics commentator",
-        "copy": "<p>“The finance sector of modern Western economies is too large. . . Its growth has not been matched by corresponding improvements in the provision of services to the non-financial economy.” In this excellent book, John Kay, a fellow columnist on the FT, explains how this came about and what to do about it. The most important conclusions are that the financial sector must be made smaller and simpler. It must become a servant of the economy, not its greedy master.</p>"
+        "copy": "<p>“The finance sector of modern Western economies is too large . . . Its growth has not been matched by corresponding improvements in the provision of services to the non-financial economy.” In this excellent book, Kay, a fellow columnist on the FT, explains how this came about and what to do about it.</p>",
+        "useimage": true,
+        "uuid": "bf4e7770-613a-11e5-9846-de406ccb37f2"
       },
       "category": "Economics",
       "book": {
@@ -394,7 +470,7 @@
         "publisher": "Profile Books",
         "year": 2015,
         "isbn": 1781254435,
-        "image": null
+        "image": "otherpeoplesmoney.jpg"
       },
       "longreview": {
         "uuid": null
@@ -407,7 +483,9 @@
       "review": {
         "byline": "Martin Wolf",
         "bylineposition": "FT's chief economics commentator",
-        "copy": "<p>Those who do not learn from history are condemned to repeat it. Eric Rauchway argues that misguided fear of inflation prevented adoption of the fiscal and monetary stimulus needed to secure a rapid recovery from the Great Recession. Unfortunately, he argues, the success in saving the banks in the autumn of 2008 reduced the political urgency of saving the economy. Today’s unhappy result is feeble economies and barely-reformed financial systems. We have, alas, forgotten what Roosevelt and Keynes knew.</p>"
+        "copy": "<p>Those who do not learn from history are condemned to repeat it. Rauchway argues that misguided fear of inflation prevented adoption of the fiscal and monetary stimulus needed to secure a rapid recovery from the Great Recession. Unfortunately, he says, the success in saving the banks in the autumn of 2008 reduced the political urgency of saving the economy. Today’s unhappy result is feeble economies and barelyreformed financial systems. We have, alas, forgotten what Roosevelt and Keynes knew.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Economics",
       "book": {
@@ -430,7 +508,9 @@
       "review": {
         "byline": "Martin Wolf",
         "bylineposition": "FT's chief economics commentator",
-        "copy": "<p>After the financial crisis, economics is in the doghouse. Dani Rodrik, one of the world’s most perceptive policy analysts, wants it let out again, albeit on a leash. “Economists who remain true to their discipline. . . are necessarily humble,” argues Rodrik. One should, he insists, regard economics as “a collection of models”, not as a single grand, overarching theory. The economist’s art lies in knowing which model is appropriate to the task at hand.</p>"
+        "copy": "<p>After the financial crisis, economics is in the doghouse. Rodrik, one of the world’s most perceptive policy analysts, wants it let out again, albeit on a leash. One should, he insists, regard economics as “a collection of models”, not as a single grand, overarching theory. The economist’s art lies in knowing which model is appropriate to the task at hand.</p>",
+        "useimage": true,
+        "uuid": "67fc21fc-7cb0-11e5-98fb-5a6d4728f74e"
       },
       "category": "Economics",
       "book": {
@@ -453,7 +533,9 @@
       "review": {
         "byline": "Martin Wolf",
         "bylineposition": "FT's chief economics commentator",
-        "copy": "<p>Sachs is a prophet calling upon humanity to create a better world. This would, he argues, have two main characteristics: we would have largely banished the scourges of destitution and disease; and we would have made the activities upon which humanity depends indefinitely sustainable. In Sachs’s view, both of these goals are now eminently attainable — but we are “far off course”.</p>"
+        "copy": "<p>Sachs is a prophet calling upon humanity to create a better world. This would, he argues, have two main characteristics: we would have largely banished the scourges of destitution and disease; and we would have made the activities upon which humanity depends indefinitely sustainable. In Sachs’s view, both of these goals are now eminently attainable — but we are “far off course”.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Economics",
       "book": {
@@ -476,7 +558,9 @@
       "review": {
         "byline": "Martin Wolf",
         "bylineposition": "FT's chief economics commentator",
-        "copy": "<p>My FT colleague, Martin Sandbu, seeks to rescue the euro from obloquy. His argument is that it is not the euro but mistaken policy that has caused the economic and political crisis of the eurozone. Monetary union does not need fiscal and political union. It needs debt restructuring. The book provides a sophisticated “liquidationist” alternative to the dominant rhetoric, which insists that the only alternatives are further integration or dissolution. One might not be convinced. But this book provides an invaluable riposte to conventional wisdom.</p>"
+        "copy": "<p>My FT colleague, Martin Sandbu, seeks to rescue the euro from obloquy. His argument is that it is not the euro but mistaken policy that has caused the crisis of the eurozone. Monetary union does not need fiscal and political union. It needs debt restructuring. The book provides a sophisticated “liquidationist” alternative to the dominant rhetoric.</p>",
+        "useimage": true,
+        "uuid": "663b8474-7752-11e5-a95a-27d368e1ddf7"
       },
       "category": "Economics",
       "book": {
@@ -499,7 +583,9 @@
       "review": {
         "byline": "Martin Wolf",
         "bylineposition": "FT's chief economics commentator",
-        "copy": "<p>Lord Stern was author of the eponymous <em>Stern Review on the Economics of Climate Change</em> published in 2007. In this follow-up, he argues strongly that we are continuing to underestimate the potential costs of inaction. It is time to take decisive action, he asserts, not only because the costs of failing to do so could be huge, but also because the costs of the needed actions are themselves becoming ever smaller.</p>"
+        "copy": "<p>Lord Stern was author of the 2007 <em>Stern Review on the Economics of Climate Change</em>. In this follow-up, he argues strongly that we are continuing to underestimate the costs of inaction. It is time to act, he asserts, not only because the costs of failing to do so could be huge, but also because the costs of the needed actions are becoming ever smaller.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Economics",
       "book": {
@@ -522,7 +608,9 @@
       "review": {
         "byline": "Martin Wolf",
         "bylineposition": "FT's chief economics commentator",
-        "copy": "<p>This enjoyable book describes the role of the author in the making of an intellectual counter-revolution: the rise of “behavioural economics”. Not so long ago, right-thinking economists focused their attention on an imaginary species of sociopaths, rational maximisers whom Thaler calls “Econs”. Actual people, however, whom he calls “Humans”, are vastly more interesting. Humans make predictable errors. Thaler explains how much we have learnt about the mistakes we humans are apt to make.</p>"
+        "copy": "<p>This enjoyable book describes the role of the author in the making of an intellectual counter-revolution: the rise of “behavioural economics”. Not so long ago, right-thinking economists focused their attention on an imaginary species of sociopaths, rational maximisers whom Thaler calls “Econs”. Actual people, however, whom he calls “Humans”, are vastly more interesting. Thaler explains how much we have learnt about the mistakes we humans are apt to make.</p>",
+        "useimage": true,
+        "uuid": "552ee87c-f8d8-11e4-8e16-00144feab7de"
       },
       "category": "Economics",
       "book": {
@@ -545,7 +633,9 @@
       "review": {
         "byline": "Martin Wolf",
         "bylineposition": "FT's chief economics commentator",
-        "copy": "<p>Adair Turner, former chairman of the Financial Services Authority, provides a brilliant analysis of the fragility of our debt-fuelled economies. History has shown that the confidence in the benefits of financial liberalisation and the stability offered by inflation-targeting was a “fatal conceit”. Friedrich Hayek had applied this phrase to socialist planning. But belief in the free market rested on essentially the same mistake. Both ways of thinking are utopian and, as such, fundamentally mistaken.</p>"
+        "copy": "<p>Turner, former chairman of the Financial Services Authority, provides a brilliant analysis of the fragility of our debt-fuelled economies. History has shown that the confidence in the benefits of financial liberalisation and the stability offered by inflation-targeting was a “fatal conceit”. Hayek had applied this phrase to socialist planning. But uncritical belief in the free market rested on essentially the same mistaken utopianism.</p>",
+        "useimage": true,
+        "uuid": "f1fef3ce-7e50-11e5-a1fe-567b37f80b64"
       },
       "category": "Economics",
       "book": {
@@ -555,7 +645,7 @@
         "publisher": "Princeton University Press",
         "year": 2015,
         "isbn": 691169640,
-        "image": null
+        "image": "betweendebtandthedevil.jpg"
       },
       "longreview": {
         "uuid": null
@@ -568,7 +658,9 @@
       "review": {
         "byline": "Martin Wolf",
         "bylineposition": "FT's chief economics commentator",
-        "copy": "<p>We insure our lives against an uncertain future; so why not our planet? That is the question addressed in this lively and thought-provoking book. The challenge of climate change should be seen as one of managing an inherently uncertain future. The authors show that among the possible outcomes of the path we are on are extreme climate changes. Rational and far-sighted policymakers would wish to eliminate such possibilities. Yet if we are to achieve that goal, we need to act now. Only the extremely myopic would behave as if a distant and potentially catastrophic risk were a non-existent one.</p>"
+        "copy": "<p>We insure our lives against an uncertain future; so why not our planet? That is the question addressed in this lively and thought-provoking book. The authors show that among the possible outcomes of the path we are on are extreme climate changes. Rational and far-sighted policymakers would wish to eliminate such possibilities. Yet if we are to achieve that goal, we need to act now.</p>",
+        "useimage": true,
+        "uuid": "bc2016e2-d320-11e4-9b0a-00144feab7de"
       },
       "category": "Economics",
       "book": {
@@ -578,7 +670,7 @@
         "publisher": "Princeton University Press",
         "year": 2015,
         "isbn": 691159475,
-        "image": "climate-shock.jpg"
+        "image": "climateshock.jpg"
       },
       "longreview": {
         "uuid": null
@@ -591,7 +683,9 @@
       "review": {
         "byline": "Andrew Hill",
         "bylineposition": "FT's management editor",
-        "copy": "<p>Ford’s chilling message in <em>The Rise of the Robots</em> – winner of this year’s Financial Times and McKinsey Business Book of the Year Award – is that the transition to a less labour-intensive economy will be miserable and even dangerous as inequality, technological unemployment and climate change collide. Radical solutions are needed – his proposals include a basic income guarantee for all – but Ford warns that the rapid advance of automation means “the future may arrive long before we are ready”.</p>"
+        "copy": "<p>Ford’s chilling message in <em>The Rise of the Robots</em> — the 2015 FT and McKinsey Business Book of the Year — is that the transition to a less labour-intensive economy will be miserable and even dangerous as inequality, technological unemployment and climate change collide. Radical solutions are needed, but Ford warns that “the future may arrive long before we are ready”.</p>",
+        "useimage": true,
+        "uuid": "12e94c74-6114-11e5-a28b-50226830d644"
       },
       "category": "Business",
       "book": {
@@ -601,7 +695,7 @@
         "publisher": "Basic Books",
         "year": 2015,
         "isbn": 1780747497,
-        "image": "rise-of-the-robots.jpg"
+        "image": "theriseoftherobots.jpg"
       },
       "longreview": {
         "uuid": null
@@ -614,7 +708,9 @@
       "review": {
         "byline": "Andrew Hill",
         "bylineposition": "FT's management editor",
-        "copy": "<p>By concentrating on a few significant characters – from Doug Morris, the tycoon at the top of the recorded music tree, to the energetic and highly organised pirates at the bottom – Witt maps out how an entire industry was turned on its head by file-sharing technology. A tour de force of reporting, <em>How Music Got Free</em> is also a colourful cautionary tale for any established business facing digital disruption.</p>"
+        "copy": "<p>By concentrating on a few significant characters — from Doug Morris, the tycoon at the top of the recorded music tree, to the highly organised pirates at the bottom — Witt maps out how an industry was turned on its head by file-sharing technology. A colourful cautionary tale for any established business facing digital disruption.</p>",
+        "useimage": true,
+        "uuid": "0c5ccd2e-09d3-11e5-a6a8-00144feabdc0"
       },
       "category": "Business",
       "book": {
@@ -624,7 +720,7 @@
         "publisher": "Bodley Head/ Viking",
         "year": 2015,
         "isbn": 525426612,
-        "image": "baubles-long.png"
+        "image": null
       },
       "longreview": {
         "uuid": null
@@ -637,7 +733,9 @@
       "review": {
         "byline": "Andrew Hill",
         "bylineposition": "FT's management editor",
-        "copy": "<p>This book is about financial crises and how, in trying to avoid them, regulators and central bankers sometimes create the conditions that cause them. But Ip explains this compelling paradox through entertaining and provocative parallels with the worlds of civil aviation, flood management and forestry. Sometimes, he points out, it is better to allow a small fire to burn than to extinguish it and risk a bigger conflagration.</p>"
+        "copy": "<p>This book is about financial crises and how, in trying to avoid them, regulators and central bankers sometimes create the conditions that cause them. But Ip explains this paradox through entertaining and provocative parallels with the worlds of civil aviation, flood management and forestry. Sometimes, he points out, it is better to allow a small fire to burn than to extinguish it and risk a bigger conflagration.</p>",
+        "useimage": true,
+        "uuid": "0473107e-6c1f-11e5-8171-ba1968cf791a"
       },
       "category": "Business",
       "book": {
@@ -660,7 +758,9 @@
       "review": {
         "byline": "Andrew Hill",
         "bylineposition": "FT's management editor",
-        "copy": "<p>Now in his eighties, management thinker Handy continues to probe and provoke with a series of revolutionary suggestions about how individuals and institutions should take a leap and renew themselves before their “first curve” of development dips downwards. The simplicity of his prose belies the sheer ambition of some of the ideas for reform – dismantle multinationals, redesign the UK Parliament – each of which could merit a book in itself.</p>"
+        "copy": "<p>Now in his eighties, management thinker Handy continues to probe and provoke with a series of revolutionary suggestions about how individuals and institutions should take a leap and renew themselves before their “first curve” of development dips. The simplicity of his prose belies the sheer ambition of some of the ideas for reform.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Business",
       "book": {
@@ -683,7 +783,9 @@
       "review": {
         "byline": "Andrew Hill",
         "bylineposition": "FT's management editor",
-        "copy": "<p>The tale of how a talented engineer and an ambitious salesman created the signature business communications device of the early 2000s is ably told by McNish and Silcoff. Their blow-by-blow account lays out just how much co-CEOs Mike Lazaridis and Jim Balsillie got right in building and selling the device – and then how badly they got their reaction to the all-conquering iPhone wrong.</p>"
+        "copy": "<p>The tale of how a talented engineer and an ambitious salesman created the signature business communications device of the early 2000s is ably told by McNish and Silcoff. Their blow-by-blow account explains just how much co-CEOs Mike Lazaridis and Jim Balsillie got right in building and selling the device — and then how badly wrong they got their reaction to the all-conquering iPhone.</p>",
+        "useimage": true,
+        "uuid": "0adb8f04-1350-11e5-ad26-00144feabdc0"
       },
       "category": "Business",
       "book": {
@@ -693,7 +795,7 @@
         "publisher": "Flatiron Books",
         "year": 2015,
         "isbn": 1250060176,
-        "image": "losing-the-signal.jpg"
+        "image": "losingthesignal.jpg"
       },
       "longreview": {
         "uuid": null
@@ -706,7 +808,9 @@
       "review": {
         "byline": "Andrew Hill",
         "bylineposition": "FT's management editor",
-        "copy": "<p>An alternative vision to that laid out by Sheryl Sandberg’s <em>Lean In</em>, this book is a more nuanced account of the hurdles facing women in the workplace. Ranging widely from the latest research to her personal struggle to negotiate the obstacle course of academia and public policy, Slaughter points out that the problem is not, <em>pace</em> Sandberg, with women, but with work. Specifically, employers, engrained leadership habits and policies need to change in order to allow women to advance freely.</p>"
+        "copy": "<p>An alternative vision to that laid out by Sheryl Sandberg’s <em>Lean In</em>, this book is a more nuanced account of the hurdles facing women in the workplace. Ranging widely from the latest research to her own experience, Slaughter points out that the problem is not, pace Sandberg, with women, but with work. Specifically, employers, leadership habits and policies need to change in order to allow women to advance freely.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Business",
       "book": {
@@ -716,7 +820,7 @@
         "publisher": "Oneworld/ Random House",
         "year": 2015,
         "isbn": 812994566,
-        "image": "bells.png"
+        "image": "unfinishedbusiness.jpg"
       },
       "longreview": {
         "uuid": null
@@ -729,7 +833,9 @@
       "review": {
         "byline": "Andrew Hill",
         "bylineposition": "FT's management editor",
-        "copy": "<p>This timely first draft of the history of a new crypto-currency provides as reliable a guide to the rise of bitcoin as is possible, given the anarchy surrounding its creation, its volatile evolution and unpredictable future. Many of those involved in its foundation – including its creator – remain elusive, despite Popper’s persistence, but this is a fine explanation of the significance of the innovation and its underlying technology, the blockchain.</p>"
+        "copy": "<p>This timely first draft of the history of a new cryptocurrency provides as reliable a guide to the rise of bitcoin as is possible, given the anarchy surrounding its creation, its volatile evolution and unpredictable future. A fine explanation of the significance of the innovation and its underlying technology, the blockchain.</p>",
+        "useimage": true,
+        "uuid": "a493fe7e-03b5-11e5-b55e-00144feabdc0"
       },
       "category": "Business",
       "book": {
@@ -739,7 +845,7 @@
         "publisher": "Allen Lane/ Harper",
         "year": 2015,
         "isbn": 241180619,
-        "image": null
+        "image": "digitalgold.jpg"
       },
       "longreview": {
         "uuid": null
@@ -752,7 +858,9 @@
       "review": {
         "byline": "Andrew Hill",
         "bylineposition": "FT's management editor",
-        "copy": "<p>In the latest book to illuminate the state of modern China through its citizens’ fast-growing obsessions (golf, art and now wine), Mustacich examines Chinese nouveaux-riches’ passion for sought-after French vintages, and the parallel growth of a domestic wine industry. Jamil Anderlini, reviewing the book for the FT, praised its eye-opening “examples of how the world’s most populous country is influencing communities and markets all over the world”.</p>"
+        "copy": "<p>In the latest book to illuminate the state of China through its citizens’ fast-growing obsessions (golf, art and now wine), Mustacich examines the Chinese passion for sought-after French vintages, and the parallel growth of a domestic wine industry.</p>",
+        "useimage": true,
+        "uuid": "df04d16c-86d4-11e5-90de-f44762bf9896"
       },
       "category": "Business",
       "book": {
@@ -775,7 +883,9 @@
       "review": {
         "byline": "Andrew Hill",
         "bylineposition": "FT's management editor",
-        "copy": "<p>Reading this history of Monopoly may be the ideal way to pass the time while waiting for procrastinating fellow players to complete their turn. An entertaining account of the inventors and marketers who backed the original idea, the book underlines the irony that a game that rewards the best monopolist started as a moral tale of trust-busting. John Gapper, writing in the FT, praised Pilon’s “prodigious” research into a surprisingly complex story.</p>"
+        "copy": "<p>Reading this history of Monopoly may be the ideal way to pass the time while waiting for procrastinating fellow players to complete their turn. An entertaining account of the inventors and marketers who backed the original idea, the book underlines the irony that a game that rewards the best monopolist started as a moral tale of trust-busting.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Business",
       "book": {
@@ -785,7 +895,7 @@
         "publisher": "Bloomsbury",
         "year": 2015,
         "isbn": 1608199630,
-        "image": null
+        "image": "themonopolists.jpg"
       },
       "longreview": {
         "uuid": null
@@ -798,7 +908,9 @@
       "review": {
         "byline": "Andrew Hill",
         "bylineposition": "FT's management editor",
-        "copy": "<p>From Sony to Facebook, the US editor of the Financial Times uses colourful examples to show how reinforcing the walls between different parts of organisations can lead to disaster and, conversely, how “silo-busting” can liberate creativity and ideas. A few dividing lines are necessary for groups of any size to function, so one of the underlying messages is that maintaining a healthy culture requires constant vigilance and effort.</p>"
+        "copy": "<p>From Sony to Facebook, the FT’s US managing editor uses colourful examples to show how reinforcing the walls between different parts of organisations can lead to disaster and, conversely, how “silo-busting” can liberate creativity. One of the underlying messages is that maintaining a healthy culture requires constant vigilance and effort.</p>",
+        "useimage": true,
+        "uuid": "ac89e9cc-4a55-11e5-b558-8a9722977189"
       },
       "category": "Business",
       "book": {
@@ -821,7 +933,9 @@
       "review": {
         "byline": "Gideon Rachman",
         "bylineposition": "FT's chief foreign affairs commentator",
-        "copy": "<p>A beautifully written and painstakingly researched biography, which covers the years from 1983 to 1987, when “Thatcherism” was at its zenith. Moore’s account covers dramatic events, such as the miners’ strike and the Brighton bombing, and innovative policies, such as privatisation.</p>"
+        "copy": "<p>A beautifully written and deeply researched biography, which covers the years from 1983 to 1987, when “Thatcherism” was at its zenith. Moore’s account covers dramatic events, such as the miners’ strike and the Brighton bombing, and innovative policies, such as privatisation.</p>",
+        "useimage": true,
+        "uuid": "b68257e0-6db7-11e5-8171-ba1968cf791a"
       },
       "category": "Politics",
       "book": {
@@ -844,7 +958,9 @@
       "review": {
         "byline": "Gideon Rachman",
         "bylineposition": "FT's chief foreign affairs commentator",
-        "copy": "<p>A novel would not normally be included in the politics books of the year, but the publication of Houellebecq’s controversial novel, which features the election of an Islamist president in France in 2022, was a political event in itself. The book is brilliant, funny, perceptive and deliberately offensive – and offers a sharp insight into the troubles of modern France.</p>"
+        "copy": "<p>A novel would not normally be included in the politics books of the year, but the publication of Houellebecq’s controversial novel, which features the election of an Islamist president in France in 2022, was a political event in itself. The book is brilliant, funny and deliberately offensive — and offers a sharp insight into the troubles of modern France.</p>",
+        "useimage": true,
+        "uuid": "c488c3be-5549-11e5-b029-b9d50a74fd14"
       },
       "category": "Politics",
       "book": {
@@ -867,7 +983,9 @@
       "review": {
         "byline": "Gideon Rachman",
         "bylineposition": "FT's chief foreign affairs commentator",
-        "copy": "<p>A vivid and convincing account of the evolution of modern Russia, by The Economist’s ex-bureau chief in Moscow, and a former FT journalist. Ostrovsky shows how the liberal dreams of the Gorbachev era gave way to the authoritarian nationalism of the Putin period.</p>"
+        "copy": "<p>A vivid account of the evolution of modern Russia by a former FT journalist. Ostrovsky shows how the liberal dreams of the Gorbachev era gave way to the authoritarian nationalism of the Putin period.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Politics",
       "book": {
@@ -877,7 +995,7 @@
         "publisher": "Atlantic",
         "year": 2015,
         "isbn": 857891596,
-        "image": null
+        "image": "inventionofrussia.jpg"
       },
       "longreview": {
         "uuid": null
@@ -890,7 +1008,9 @@
       "review": {
         "byline": "Gideon Rachman",
         "bylineposition": "FT's chief foreign affairs commentator",
-        "copy": "<p>A vivid insider’s account of America’s failed effort to rebuild Iraq by a critical, but sympathetic, British adviser, embedded with US forces. Shortlisted for the Samuel Johnson Prize.</p>"
+        "copy": "<p>A vivid insider’s account of America’s failed effort to rebuild Iraq by a critical, but sympathetic, British adviser who was embedded with US forces. Shortlisted for the Samuel Johnson Prize.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Politics",
       "book": {
@@ -913,7 +1033,9 @@
       "review": {
         "byline": "Gideon Rachman",
         "bylineposition": "FT's chief foreign affairs commentator",
-        "copy": "<p>Journalist Lamb first started covering Afghanistan when the mujahideen were fighting the Russians. Here she delivers a detailed, painful and convincing account of how and why the west failed in Afghanistan.</p>"
+        "copy": "<p>Journalist Lamb first started covering Afghanistan when the mujahideen were fighting the Russians. Here she delivers a detailed, painful and convincing account of how and why the west failed in Afghanistan.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Politics",
       "book": {
@@ -936,7 +1058,9 @@
       "review": {
         "byline": "Gideon Rachman",
         "bylineposition": "FT's chief foreign affairs commentator",
-        "copy": "<p>Putnam, one of America’s leading political scientists, tackles rising inequality in the US and its effect on the “American Dream”. Through a mix of anecdote and data, he shows how the loss of well-paid jobs in manufacturing has wrought social havoc.</p>"
+        "copy": "<p>Putnam, one of America’s leading political scientists, tackles rising inequality in the US and its effect on the “American Dream”. Through a mix of anecdote and data, he shows how the loss of well-paid manufacturing jobs has wrought social havoc.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Politics",
       "book": {
@@ -959,7 +1083,9 @@
       "review": {
         "byline": "Gideon Rachman",
         "bylineposition": "FT's chief foreign affairs commentator",
-        "copy": "<p>Bell, a Canadian philosopher based at Tsinghua University in Beijing, argues that there is a “crisis of governance in western democracies” and makes the controversial argument that China offers a superior model – in which leaders are selected on merit rather than by the electorate.</p>"
+        "copy": "<p>Bell, a Canadian philosopher based at Tsinghua University in Beijing, argues that there is a “crisis of governance in western democracies” and makes the controversial argument that China offers a superior model — in which leaders are selected on merit rather than by the electorate.</p>",
+        "useimage": true,
+        "uuid": "6105bd40-15a4-11e5-8e6a-00144feabdc0"
       },
       "category": "Politics",
       "book": {
@@ -982,7 +1108,9 @@
       "review": {
         "byline": "Gideon Rachman",
         "bylineposition": "FT's chief foreign affairs commentator",
-        "copy": "<p>The book’s thesis is conveyed by its sub-title – “warlords, tycoons, smugglers and the systematic theft of Africa’s wealth”. Burgis, who worked as an FT correspondent in Africa, presents an unsparing portrait of the corruption that is blighting the continent.</p>"
+        "copy": "<p>The book’s thesis is conveyed by its subtitle — “warlords, tycoons, smugglers and the systematic theft of Africa’s wealth”. Burgis, who worked as an FT correspondent in Africa, presents an unsparing portrait of the corruption that blights the continent.</p>",
+        "useimage": true,
+        "uuid": "c116c0a0-c25a-11e4-ad89-00144feab7de"
       },
       "category": "Politics",
       "book": {
@@ -992,6 +1120,31 @@
         "publisher": "William Collins",
         "year": 2015,
         "isbn": 7523092,
+        "image": "thelootingmachine.jpg"
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Gideon Rachman",
+        "bylineposition": "FT's chief foreign affairs commentator",
+        "copy": "<p>Ferguson’s revisionist line, signalled in his subtitle, may not convince those who see Kissinger as the master of realpolitik. But, at 1,000 pages, this is a formidably detailed, closely argued study of the making of one of the giants of 20th-century foreign policy.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Politics",
+      "book": {
+        "author": "Niall Ferguson",
+        "title": "Kissinger",
+        "fulltitle": "Kissinger: 1923-1968: The Idealist",
+        "publisher": "Allen Lane",
+        "year": null,
+        "isbn": 713998709,
         "image": null
       },
       "longreview": {
@@ -1005,16 +1158,143 @@
       "review": {
         "byline": "Clive Cookson",
         "bylineposition": "FT's science editor",
-        "copy": ""
+        "copy": "<p>Biochemist Lane has written nothing less than a new theory of life, within the broad context of Darwinian evolution. He shows how simple microbes, which monopolised Earth for the first 2bn years after life emerged, took the momentous step towards becoming the complex “eukaryotic” cells that evolved into animals, plants, fungi and protozoa.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Science",
       "book": {
-        "author": null,
-        "title": null,
-        "fulltitle": null,
-        "publisher": null,
+        "author": "Nick Lane",
+        "title": "The Vital Question",
+        "fulltitle": "The Vital Question: Why is Life the Way It is?",
+        "publisher": "Profile/ Norton",
         "year": null,
-        "isbn": null,
+        "isbn": 1781250367,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Clive Cookson",
+        "bylineposition": "FT's science editor",
+        "copy": "<p>Nowotny, a great figure in European science policy, looks at the impact of uncertainty on all aspects of modern life. She is particularly interested in the efforts by researchers and technologists to reduce uncertainty — with mixed results. This is an important work of social science that will also entertain non-specialists.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Science",
+      "book": {
+        "author": "Helga Nowotny",
+        "title": "The Cunning of Uncertainty",
+        "fulltitle": null,
+        "publisher": "Polity",
+        "year": null,
+        "isbn": "074568761X",
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Clive Cookson",
+        "bylineposition": "FT's science editor",
+        "copy": "<p>Silberman, a US journalist, won the 2015 Samuel Johnson Prize for this investigation of autism. A rich blend of contemporary reportage and medical and social history, it explains why disorders on the autism spectrum are diagnosed so much more frequently today than they were a generation or two ago.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Science",
+      "book": {
+        "author": "Steve Silberman",
+        "title": "Neurotribes",
+        "fulltitle": "Neurotribes: The Legacy of Autismand How to Think Smarter about People who Think Differently",
+        "publisher": "Allen & Unwin/ Avery",
+        "year": null,
+        "isbn": 1760113638,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Clive Cookson",
+        "bylineposition": "FT's science editor",
+        "copy": "<p>Scientists are beginning to appreciate the medical importance of the microbiome, the resident population of 100tn or so microbes inside the human body. Several popular books have appeared this year about our microbial guests, focusing on their role in promoting human health — and Spector, a world leader in genetic studies of twins, has written the best of them.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Science",
+      "book": {
+        "author": "Tim Spector",
+        "title": "The Diet Myth",
+        "fulltitle": "The Diet Myth: The Real Science Behind What We Eat",
+        "publisher": "Weidenfeld & Nicolson",
+        "year": null,
+        "isbn": "029760919X",
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Clive Cookson",
+        "bylineposition": "FT's science editor",
+        "copy": "<p>A masterly account of the “scientific revolution” that transformed western civilisation during the 16th and 17th centuries. Wootton’s long book — more than 750 pages — is packed with people, stories, facts and argument on the emergence of experimentation to discover the laws of nature.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Science",
+      "book": {
+        "author": "David Wootton",
+        "title": "The Invention of Science",
+        "fulltitle": "The Invention of Science: A New History of the Scientific Revolution",
+        "publisher": "Allen Lane/ Harper",
+        "year": null,
+        "isbn": 1846142105,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Clive Cookson",
+        "bylineposition": "FT's science editor",
+        "copy": "<p>Alexander von Humboldt, the great German scientist and explorer, is not as well known in the English-speaking world as his achievements deserve. The historian Andrea Wulf does her best to correct for this neglect with a lively account of Humboldt’s travels in the late 18th and early 19th centuries and his environmental discoveries.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Science",
+      "book": {
+        "author": "Andrea Wulf",
+        "title": "The Invention of Nature",
+        "fulltitle": "The Invention of Nature: The Adventures of Alexander von Humboldt, the Lost Hero of Science",
+        "publisher": "John Murray/ Knopf",
+        "year": null,
+        "isbn": 1848548982,
         "image": null
       },
       "longreview": {
@@ -1028,7 +1308,9 @@
       "review": {
         "byline": "Jackie Wullschlager",
         "bylineposition": "FT's chief visual arts critic",
-        "copy": ""
+        "copy": "<p>There will never be an exhibition of all Vermeer’s 35 surviving works, scattered across museums worldwide; this catalogue with spectacular reproductions, close-up details and fold-out spreads is a supreme retrospective in print of the great artist of silence, intimacy, the transient gesture. Art book of the year.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Art",
       "book": {
@@ -1038,7 +1320,7 @@
         "publisher": "Taschen",
         "year": 2015,
         "isbn": 3836536412,
-        "image": null
+        "image": "vermeer.png"
       },
       "longreview": {
         "uuid": null
@@ -1051,12 +1333,14 @@
       "review": {
         "byline": "Jackie Wullschlager",
         "bylineposition": "FT's chief visual arts critic",
-        "copy": ""
+        "copy": "<p>Bacon’s biographer has already told countless stories about the artist, but still his fluent, gossipy, informal, fast-paced memoir adds something new. Surprising, funny, illuminating, at times annoying when Peppiatt rather than Bacon takes centre stage, it is an irresistible evocation of the glory days of 1960s Soho.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Art",
       "book": {
         "author": "Michael Peppiatt",
-        "title": "Francis Bacon in Your Blood",
+        "title": "by Andrea Wulf",
         "fulltitle": "Francis Bacon in Your Blood: A Memoir",
         "publisher": "Bloomsbury",
         "year": 2015,
@@ -1074,12 +1358,14 @@
       "review": {
         "byline": "Jackie Wullschlager",
         "bylineposition": "FT's chief visual arts critic",
-        "copy": ""
+        "copy": "<p>That rare thing, a fresh perspective on impressionism. Recounting especially Monet’s relationship with his Japanese collectors, this catalogue to a current German exhibition reveals stunning paintings — Monet, Manet, Renoir, Van Gogh, Signac, Seurat — from collections virtually unknown in the west.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Art",
       "book": {
         "author": "The Art And Exhibition Hall Of The Federal Republic Of Germany",
-        "title": "Japan's Love for Impressionism",
+        "title": null,
         "fulltitle": "Japan's Love for Impressionism: From Monet to Renoir",
         "publisher": "Prestel",
         "year": 2015,
@@ -1097,17 +1383,19 @@
       "review": {
         "byline": "Jackie Wullschlager",
         "bylineposition": "FT's chief visual arts critic",
-        "copy": ""
+        "copy": "<p>Rilke called Cézanne’s watercolours “as confident as his paintings, and as light as the paintings are heavy”. This beautiful compact reading volume is a deeply thought, lightly rendered account, particularly of the rhapsodic watercolours with which Cézanne balanced drawing and painting, line and colour, in shifting equilibriums to convey sensation and feeling.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Art",
       "book": {
         "author": "Christopher Lloyd",
-        "title": "Paul Cézanne: Drawings and Watercolours",
+        "title": "John Murray £25/Knopf $30",
         "fulltitle": null,
         "publisher": "Thames & Hudson",
         "year": 2015,
         "isbn": 500093873,
-        "image": null
+        "image": "cezanne.jpg"
       },
       "longreview": {
         "uuid": null
@@ -1120,7 +1408,9 @@
       "review": {
         "byline": "Jackie Wullschlager",
         "bylineposition": "FT's chief visual arts critic",
-        "copy": ""
+        "copy": "<p>Lampert has sat as a model to the reclusive artist for four decades. Here she draws on their conversations to produce a gripping, sensitive portrait, close to biography but brighter and livelier than straightforward narrative in conveying the rhythms of Auerbach’s painting, life and thought.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Art",
       "book": {
@@ -1141,18 +1431,145 @@
         "name": "Christmas 2015"
       },
       "review": {
+        "byline": "Jackie Wullschlager",
+        "bylineposition": "FT's chief visual arts critic",
+        "copy": "<p>Essays spanning 30,000 years of art history by a writer who uniquely combines critical acuity and imaginative empathy with Marxist conviction. “If I am a political propagandist, I am proud of it,” Berger says, “but my heart and eye have remained those of a painter.” The combination is always illuminating.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Art",
+      "book": {
+        "author": "John Berger, edited by Tom Overton",
+        "title": "Portraits",
+        "fulltitle": "Portraits: John Berger on Artists",
+        "publisher": "Verso",
+        "year": null,
+        "isbn": 1784781762,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
         "byline": "Edwin Heathcote",
         "bylineposition": "FT's architecture critic",
-        "copy": ""
+        "copy": "<p>A compendium of fantasy cities that takes its cue from Marco Polo via Italo Calvino’s Invisible Cities, this remarkable survey reveals the influence that the metropolis of the mind has had on the real thing.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Architecture and design",
       "book": {
-        "author": null,
-        "title": null,
+        "author": "Darran Anderson",
+        "title": "Imaginary Cities",
         "fulltitle": null,
-        "publisher": null,
+        "publisher": "Influx Press",
         "year": null,
-        "isbn": null,
+        "isbn": 992765595,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Edwin Heathcote",
+        "bylineposition": "FT's architecture critic",
+        "copy": "<p>First published in 1974 but only now appearing in the UK, this slab of a book is a fine monument to the man who built modern New York. As the head of the city’s construction authorities in the middle of the 20th century, Moses wielded unprecedented power, smashing freeways through the city and reshaping the landscape.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Architecture and design",
+      "book": {
+        "author": "Robert Caro",
+        "title": "The Power Broker",
+        "fulltitle": "The Power Broker: Robert Moses and the Fall of New York",
+        "publisher": "Bodley Head",
+        "year": null,
+        "isbn": 394720245,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Edwin Heathcote",
+        "bylineposition": "FT's architecture critic",
+        "copy": "<p>Drawing parallels from modernist literature and art, Harbison suggests that the ruin and the fragment appeal to contemporary sensibilities precisely because of their incompleteness and their embodiment of loss and nostalgia. With the destruction of sites of antiquity by Isis, this is a timely and beautifully written study of why we are so attached to pieces of the past.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Architecture and design",
+      "book": {
+        "author": "Robert Harbison",
+        "title": "Ruins and Fragments",
+        "fulltitle": "Ruins and Fragments: Tales of Loss and Rediscovery",
+        "publisher": "Reaktion",
+        "year": null,
+        "isbn": 1780234473,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Edwin Heathcote",
+        "bylineposition": "FT's architecture critic",
+        "copy": "<p>Brutalism and modernism have become fiercely fashionable as the current paucity of thinking about architecture in social and political terms makes their monuments seem visionary — more modern, even, than many of today’s buildings. Harwood and Davies have produced a beautifully illustrated guide to this architectural legacy.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Architecture and design",
+      "book": {
+        "author": "Elain Harwood and James Davies",
+        "title": "England’s Post-War Listed Buildings",
+        "fulltitle": null,
+        "publisher": "Batsford",
+        "year": null,
+        "isbn": 713488182,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Edwin Heathcote",
+        "bylineposition": "FT's architecture critic",
+        "copy": "<p>Murphy surveys the built visions of the future from the (relatively) recent past. It is a little elegiac and a touch nostalgic, admiring the utopian modernists’ faith in technology and their ambition to create radical new worlds rather than falling back on tired corporate archetypes. The criticism of the present is implicit – we could have been living in the future but somehow we are not.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Architecture and design",
+      "book": {
+        "author": "Douglas Murphy",
+        "title": "Last Futures",
+        "fulltitle": "Last Futures: Nature, Technology and the End of Architecture",
+        "publisher": "Verso",
+        "year": null,
+        "isbn": "178168975X",
         "image": null
       },
       "longreview": {
@@ -1166,7 +1583,9 @@
       "review": {
         "byline": "Danny Leigh",
         "bylineposition": "Film writer",
-        "copy": ""
+        "copy": "<p>Few guides for would-be screenwriters could match Hashimoto, whose long years writing for the great Kurosawa yielded landmarks such as <em>Rashomon</em> and <em>Seven Samurai</em>. Much of this crisply observant memoir serves as a blueprint for relations between writer and director. Later, after the two part company, things get spiky.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Film",
       "book": {
@@ -1176,7 +1595,7 @@
         "publisher": "Vertical",
         "year": 2015,
         "isbn": 1939130573,
-        "image": null
+        "image": "kurosawa.jpg"
       },
       "longreview": {
         "uuid": null
@@ -1189,7 +1608,9 @@
       "review": {
         "byline": "Danny Leigh",
         "bylineposition": "Film writer",
-        "copy": ""
+        "copy": "<p>Even by the baroque standard of Hollywood lives, Endfield was a one-off. A protégé of Orson Welles, his directing career competed with a sideline as a magician. Later, he found himself derailed by anti-communism, forced into exile in Britain to make macho action movies. I haven’t even mentioned his invention of a micro-computer.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Film",
       "book": {
@@ -1199,7 +1620,7 @@
         "publisher": "University of Winsconsin Press",
         "year": 2015,
         "isbn": 299303748,
-        "image": null
+        "image": "cyendfield.jpg"
       },
       "longreview": {
         "uuid": null
@@ -1212,7 +1633,9 @@
       "review": {
         "byline": "Danny Leigh",
         "bylineposition": "Film writer",
-        "copy": ""
+        "copy": "<p>It’s a surprise it has taken Ackroyd so long to get to Hitchcock, a figure who always lurked in the spiritual margins of the writer’s studies of London. The book is physically slim, but moreishly thick with insight.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Film",
       "book": {
@@ -1235,7 +1658,9 @@
       "review": {
         "byline": "Danny Leigh",
         "bylineposition": "Film writer",
-        "copy": ""
+        "copy": "<p>Remember that indelible opening scene in <em>Jaws</em>? The lone swimmer claimed by the deep was a professional stuntwoman, Susan Backlinie, just one in a long line that Gregory spotlights in a story that takes us back to the dawn of the movies.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Film",
       "book": {
@@ -1258,16 +1683,93 @@
       "review": {
         "byline": "Richard Fairman",
         "bylineposition": "FT's chief classical music critic",
-        "copy": ""
+        "copy": "<p>Not only the complete collected writings for the first time, but also the sum of wisdom from a thinking man’s musician looking back over his career. Brendel reflects deeply on Beethoven and Liszt, performing and recording, and — an endearing enthusiasm — his appreciation of humour in music.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Classical music and opera",
       "book": {
-        "author": null,
-        "title": null,
-        "fulltitle": null,
-        "publisher": null,
+        "author": "Alfred Brendel",
+        "title": "Music, Sense and Nonsense",
+        "fulltitle": "Music, Sense and Nonsense: Collected Essays and Lectures",
+        "publisher": "Biteback",
         "year": null,
-        "isbn": null,
+        "isbn": 1849549052,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Richard Fairman",
+        "bylineposition": "FT's chief classical music critic",
+        "copy": "<p>From Turkish makam to Javanese gamelan and the Mande music of west Africa, the musical world embraces a wealth of classical traditions. This compendium seeks to open doors to the riches of 15 of the most substantial in a lively, but comprehensible style.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Classical music and opera",
+      "book": {
+        "author": "Michael Church",
+        "title": "The Other Classical Musics",
+        "fulltitle": "The Other Classical Musics: Fifteen Great Traditions",
+        "publisher": "Boydell Press",
+        "year": null,
+        "isbn": 1843837269,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Richard Fairman",
+        "bylineposition": "FT's chief classical music critic",
+        "copy": "<p>From where did Philip Glass’s brand of minimalism spring? The story starts on a midnight train from Baltimore, takes in the artistic melting-pot of 1960s New York and a pilgrimage to discover Tibetan Buddhism, and rises to acclaim at the Metropolitan Opera. Glass puts across an engaging mix of idealism and American can-do practicality.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Classical music and opera",
+      "book": {
+        "author": "Philip Glass",
+        "title": "Words Without Music",
+        "fulltitle": null,
+        "publisher": "Faber/ Liveright",
+        "year": null,
+        "isbn": 871404389,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Richard Fairman",
+        "bylineposition": "FT's chief classical music critic",
+        "copy": "<p>Coincidence or not, this is the year when Christian Thielemann achieved his life’s ambition. Newly installed as music director at the Bayreuth festival, Thielemann sets out his thoughts on Wagner the man and the artist.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Classical music and opera",
+      "book": {
+        "author": "Christian Thielemann",
+        "title": "My Life with Wagner",
+        "fulltitle": null,
+        "publisher": "Weidenfeld & Nicolson",
+        "year": null,
+        "isbn": "029760855X",
         "image": null
       },
       "longreview": {
@@ -1281,16 +1783,93 @@
       "review": {
         "byline": "Ludovic Hunter-Tilney",
         "bylineposition": "FT's pop critic",
-        "copy": ""
+        "copy": "<p>Belle and Sebastian were outsiders in Britpop’s lager-swilling, cocaine-snorting heyday. Stuart David, their former bassist, recounts the Scottish indie band’s origins in his charming memoir, a story whose most rock and roll moment involves mild misbehaviour with After Eight mints.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Pop",
       "book": {
-        "author": null,
-        "title": null,
+        "author": "Stuart David",
+        "title": "In the All-Night Café",
         "fulltitle": null,
-        "publisher": null,
+        "publisher": "Little, Brown",
         "year": null,
-        "isbn": null,
+        "isbn": "140870515X",
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Ludovic Hunter-Tilney",
+        "bylineposition": "FT's pop critic",
+        "copy": "<p>Noise Uprising’s year zero is 1925, when electrical recording techniques allowed vinyl to conquer the world. Record companies hunted new sounds: Argentine tango singers, Cuban son musicians, Egyptian taarab vocalists. Denning links the explosion of vernacular recordings to an emergent age of decolonisation.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Pop",
+      "book": {
+        "author": "Michael Denning",
+        "title": "Noise Uprising",
+        "fulltitle": "Noise Uprising: The Audiopolitics of a World Musical Revolution",
+        "publisher": "Verso",
+        "year": null,
+        "isbn": 1781688567,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Ludovic Hunter-Tilney",
+        "bylineposition": "FT's pop critic",
+        "copy": "<p>Although nicknamed “Boadicea” by a Fairport Convention bandmate, Sandy Denny didn’t have the attributes of a warrior queen. But she did have one of the great voices of the 1970s, a folk-rock queen. Mick Houghton’s well-researched biography traces her success and its sabotage by drink and a fragile personality.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Pop",
+      "book": {
+        "author": "Mick Houghton",
+        "title": "I’ve Always Kept a Unicorn",
+        "fulltitle": "I’ve Always Kept a Unicorn: The Biography of Sandy Denny",
+        "publisher": "Faber",
+        "year": null,
+        "isbn": 571278906,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Ludovic Hunter-Tilney",
+        "bylineposition": "FT's pop critic",
+        "copy": "<p>The sequel to Just Kids opens with Smith in a café with a notebook, wondering how to write about nothing. Difficult second memoir syndrome, perhaps: but Smith conquers it in style, delivering reminiscences about writing, reading and married life with Fred “Sonic” Smith.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Pop",
+      "book": {
+        "author": "Patti Smith",
+        "title": "M Train",
+        "fulltitle": null,
+        "publisher": "Bloomsbury/ Knopf",
+        "year": null,
+        "isbn": 1101875100,
         "image": null
       },
       "longreview": {
@@ -1304,16 +1883,18 @@
       "review": {
         "byline": "Jo Ellison",
         "bylineposition": "FT's fashion editor",
-        "copy": ""
+        "copy": "<p>Admired by fashion designer Erdem Moralioglu, Goldwyn’s book is a series of deeply researched but fictional tales about the business of prostitution in late 19th-century LA. Goldwyn — avid collector of antique lingerie and one of the most acquisitive couture clients in the world — writes with a candid imagination about a time when “vice ran the city”.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Fashion and style",
       "book": {
-        "author": null,
-        "title": null,
+        "author": "Liz Goldwyn",
+        "title": "Sporting Guide: Los Angeles",
         "fulltitle": null,
-        "publisher": null,
+        "publisher": "Regan Arts",
         "year": null,
-        "isbn": null,
+        "isbn": 1941393047,
         "image": null
       },
       "longreview": {
@@ -1325,18 +1906,195 @@
         "name": "Christmas 2015"
       },
       "review": {
-        "byline": "Carol Wilkinson",
+        "byline": "Jo Ellison",
+        "bylineposition": "FT's fashion editor",
+        "copy": "<p>A biography of the super-agent who built the Ford model empire, Lacey’s book provides a fascinating insight into the “matriarch of modelling” and her role in the making of the supermodel phenomenon. While Lacey doesn’t flinch from describing her more brutal professional behaviour, he is careful to record Ford’s contribution to fashion over a career spanning nearly 50 years.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fashion and style",
+      "book": {
+        "author": "Robert Lacey",
+        "title": "Model Woman",
+        "fulltitle": "Model Woman: Eileen Ford and the Business of Beauty",
+        "publisher": "Harper",
+        "year": null,
+        "isbn": 62108077,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Carl Wilkinson",
         "bylineposition": "Books critic",
-        "copy": ""
+        "copy": "<p>Bate’s book started out as a “literary life”, bolstered by huge amounts of research and unfettered access, but Hughes’s widow had second thoughts. The result was nonetheless shortlisted for the Samuel Johnson Prize and still manages to illuminate the poet’s lowering literary presence.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Literary Non-fiction",
       "book": {
-        "author": null,
-        "title": null,
-        "fulltitle": null,
-        "publisher": null,
+        "author": "Jonathan Bate",
+        "title": "Ted Hughes",
+        "fulltitle": "Ted Hughes: The Unauthorised Life",
+        "publisher": "William Collins/ Harper",
         "year": null,
-        "isbn": null,
+        "isbn": 8118221,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Carl Wilkinson",
+        "bylineposition": "Books critic",
+        "copy": "<p>Crawford’s exhaustive biography of TS Eliot’s early years anatomises the poet’s early education. Read alongside Christopher Ricks’s magisterial two-volume annotated complete works for Eliot in surround sound.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Literary Non-fiction",
+      "book": {
+        "author": "Robert Crawford",
+        "title": "Young Eliot",
+        "fulltitle": "Young Eliot: From St Louis to The Waste Land",
+        "publisher": "Jonathan Cape/ Farrar, Straus & Giroux",
+        "year": null,
+        "isbn": 224093886,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Carl Wilkinson",
+        "bylineposition": "Books critic",
+        "copy": "<p>Shortlisted for the Samuel Johnson Prize, Macfarlane’s book focuses on the words we have accumulated for the land around us. A richly complex work from an acclaimed nature writer.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Literary Non-fiction",
+      "book": {
+        "author": "Robert Macfarlane",
+        "title": "Landmarks",
+        "fulltitle": null,
+        "publisher": "Hamish Hamilton",
+        "year": null,
+        "isbn": 241146534,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Carl Wilkinson",
+        "bylineposition": "Books critic",
+        "copy": "<p>In his study of our hyperactive internet age, Scott’s interest lies less in the technology than in we who use it. Scott’s references are admirably broad, spanning high and low culture in a layered and complex (and Samuel Johnson shortlisted) account.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Literary Non-fiction",
+      "book": {
+        "author": "Laurence Scott",
+        "title": "Ways of Being in the Digital World",
+        "fulltitle": null,
+        "publisher": "William Heinemann",
+        "year": null,
+        "isbn": 434023116,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Carl Wilkinson",
+        "bylineposition": "Books critic",
+        "copy": "<p>Shortlisted for the 2015 Costa Biography Award, Ruth Scurr’s experimental “act of scholarly imagination” brings to life the 17th-century antiquarian and author of <em>Brief Lives</em>, John Aubrey. By collating Aubrey’s own words from various sources, Scurr’s book captures the voice of a man more often a “ghostly record keeper” in his own writing.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Literary Non-fiction",
+      "book": {
+        "author": "Ruth Scurr",
+        "title": "John Aubrey",
+        "fulltitle": "John Aubrey: My Own Life",
+        "publisher": "Chatto & Windus",
+        "year": null,
+        "isbn": 701179074,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Carl Wilkinson",
+        "bylineposition": "Books critic",
+        "copy": "<p>While Sisman may not make the literary case for le Carré’s novels as cogently as some might wish, he offers insights into the complex and contradictory life of the creator of George Smiley. A fascinating precursor to le Carré’s own promised memoir.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Literary Non-fiction",
+      "book": {
+        "author": "Adam Sisman",
+        "title": "John le Carré",
+        "fulltitle": "John le Carré: The Biography",
+        "publisher": "Bloomsbury/ Harper",
+        "year": null,
+        "isbn": 1408827921,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Carl Wilkinson",
+        "bylineposition": "Books critic",
+        "copy": "<p>The ceramicist and author of <em>The Hare with Amber Eyes</em> (2010) returns with his history of porcelain from ancient China to the present day. In a tandem autobiographical strand, de Waal also recounts his own love affair with the material.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Literary Non-fiction",
+      "book": {
+        "author": "Edmund de Waal",
+        "title": "The White Road",
+        "fulltitle": null,
+        "publisher": "Chatto & Windus",
+        "year": null,
+        "isbn": 307362108,
         "image": null
       },
       "longreview": {
@@ -1350,16 +2108,368 @@
       "review": {
         "byline": "Neville Hawcock",
         "bylineposition": "FT's deputy books editor",
-        "copy": ""
+        "copy": "<p>In her 2013 novel <em>Life After Life</em>, Atkinson followed one woman through multiple possible lives. This sort-of sequel focuses on the woman’s brother, and counterpoints his experiences as a bomber pilot with his resolutely unremarkable peacetime life. A celebration of quiet heroism, told with great formal skill and narrative panache.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Fiction",
       "book": {
-        "author": null,
-        "title": null,
+        "author": "Kate Atkinson",
+        "title": "A God in Ruins",
         "fulltitle": null,
-        "publisher": null,
+        "publisher": "Doubleday/ Little, Brown",
         "year": null,
-        "isbn": null,
+        "isbn": 316176532,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Neville Hawcock",
+        "bylineposition": "FT's deputy books editor",
+        "copy": "<p>Like his acclaimed <em>What a Carve Up!</em> (1994), Coe’s 11th novel is a swingeing state-of-the-nation satire; it even features some of the same characters. If this one doesn’t hit quite hit the heights of its predecessor, it’s still a provocative and very funny riposte to the rhetoric of Austerity Britain.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction",
+      "book": {
+        "author": "Jonathan Coe",
+        "title": "Number 11",
+        "fulltitle": null,
+        "publisher": "Penguin Viking",
+        "year": null,
+        "isbn": 670923796,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Neville Hawcock",
+        "bylineposition": "FT's deputy books editor",
+        "copy": "<p>Like The Gathering, Enright’s 2007 Booker winner, <em>The Green Road</em> centres on a family reunion. This time it’s the Madigans — matriarch Rosaleen and her four children, rendered variously dysfunctional by their mother’s self-centredness. Enright dissects their foibles with warmth, wit and a bracing lack of sentimentality.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction",
+      "book": {
+        "author": "Anne Enright",
+        "title": "The Green Road",
+        "fulltitle": "The Green Road",
+        "publisher": "Cape/ WW Norton",
+        "year": null,
+        "isbn": 224089056,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Neville Hawcock",
+        "bylineposition": "FT's deputy books editor",
+        "copy": "<p>So it’s not Franzen’s finest — not up there with <em>The Corrections</em> (2001), say. But he’s still a formidably talented writer, and <em>Purity</em>, in which the eponymous heroine goes in search of her unknown father, is a serious, humane, irresistibly readable portrait of our information-intoxicated age.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction",
+      "book": {
+        "author": "Jonathan Franzen",
+        "title": "Purity",
+        "fulltitle": null,
+        "publisher": "Fourth Estate/ FSG",
+        "year": null,
+        "isbn": 7532768,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Neville Hawcock",
+        "bylineposition": "FT's deputy books editor",
+        "copy": "<p>Even for a genre-hopper such as Ishiguro, his first novel in 10 years was a surprise: a fantasy set in a mist-shrouded England not long after Roman times, complete with a dragon and an ageing Sir Gawain. With its vivid imagery and measured prose, the book is an extended reflection on historical memory and forgetting.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction",
+      "book": {
+        "author": "Kazuo Ishiguro",
+        "title": "The Buried Giant",
+        "fulltitle": null,
+        "publisher": "Faber/ Knopf",
+        "year": null,
+        "isbn": 571315038,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Neville Hawcock",
+        "bylineposition": "FT's deputy books editor",
+        "copy": "<p>In two handsomely designed volumes, Hensher showcases “probably the richest, most varied and most historically extensive national tradition” of short story writing in the world, from Daniel Defoe to Zadie Smith. If it’s impossible not to take issue with some of the omissions — no Katherine Mansfield, no EM Forster — you have to admire Hensher’s championing of unfamiliar names alongside established greats.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction",
+      "book": {
+        "author": "Edited by Philip Hensher",
+        "title": "The Penguin Book of the British Short Story",
+        "fulltitle": null,
+        "publisher": "Penguin",
+        "year": null,
+        "isbn": 141396016,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Neville Hawcock",
+        "bylineposition": "FT's deputy books editor",
+        "copy": "<p>James became the first Jamaican winner of the Man Booker Prize with this exploration of the events surrounding the shooting of Bob Marley in December 1976. Told through multiple voices — gangsters, a groupie, a CIA station chief and others — it also charts the rise of crack cocaine in the US in the 1980s; but if James does not shy away from depicting brutal violence, there’s also humanity and humour here.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction",
+      "book": {
+        "author": "Marlon James",
+        "title": "A Brief History of Seven Killings",
+        "fulltitle": null,
+        "publisher": "Oneworld/ Riverhead",
+        "year": null,
+        "isbn": 1780746350,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Neville Hawcock",
+        "bylineposition": "FT's deputy books editor",
+        "copy": "<p>The Moor in question is Estebanico, a slave mentioned in passing in a 16th-century record as being one of only four survivors of the conquistador Pánfilo de Narváez’s disastrous expedition to Florida. From this fleeting reference, Lalami has spun a compelling tale of “the disease of empire” in the New World.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction",
+      "book": {
+        "author": "Laila Lalami",
+        "title": "The Moor’s Account",
+        "fulltitle": null,
+        "publisher": "Periscope/ Vintage",
+        "year": null,
+        "isbn": 804170622,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Neville Hawcock",
+        "bylineposition": "FT's deputy books editor",
+        "copy": "<p>An enigma lies at the heart of Miller’s follow-up to his Costa-winning <em>Pure</em>: heroine Maud may be irresistible to posh Tim, who has a child with her, but he can never puncture her self-sufficiency. Nor can the reader, even as we follow Maud on a perilous solo yacht voyage after the family falls apart. Part relationship study, part sailing yarn, this odd yet enthralling book lingers long in the mind.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction",
+      "book": {
+        "author": "Andrew Miller",
+        "title": "The Crossing",
+        "fulltitle": null,
+        "publisher": "Sceptre",
+        "year": null,
+        "isbn": 1444753495,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Neville Hawcock",
+        "bylineposition": "FT's deputy books editor",
+        "copy": "<p>A sequel to Bodies of Light (2014), Moss’s novel continues the story of Ally, fighting to be taken seriously as a doctor in the unforgiving milieu of a Victorian asylum. Meanwhile, the husband she has only just married must undertake a long voyage to Japan. Moss vividly brings to life their contrasting experiences in this nuanced study of lives constricted or liberated by circumstance.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction",
+      "book": {
+        "author": "Sarah Moss",
+        "title": "Signs for Lost Children",
+        "fulltitle": null,
+        "publisher": "Granta",
+        "year": null,
+        "isbn": "178378105X",
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Neville Hawcock",
+        "bylineposition": "FT's deputy books editor",
+        "copy": "<p>Inspired by Radovan Karadzic’s disguise while on the run, <em>The Little Red Chairs</em> starts with the arrival of a bearded stranger, “Dr Vladimir Dragan, Healer and Sex Therapist”, in a small Irish town. What follows is a masterly study of evil and human resilience, its darkness counterpointed by O’Brien’s poetic aliveness to the sensual world.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction",
+      "book": {
+        "author": "Edna O’Brien",
+        "title": "The Little Red Chairs",
+        "fulltitle": null,
+        "publisher": "Faber",
+        "year": null,
+        "isbn": 316378232,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Neville Hawcock",
+        "bylineposition": "FT's deputy books editor",
+        "copy": "<p>When their father moves away, four brothers in Nigeria consider themselves released from his ambitions for them: instead of studying hard for lives in the professions, they spend their time fishing. But even in the 1990s, old superstitions — in the form of a madman’s prophecy — can poison seemingly solid relationships. Obioma’s masterly debut novel was shortlisted for the Man Booker and won the FT/OppenheimerFunds Emerging Voices Award for Fiction.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction",
+      "book": {
+        "author": "Chigozie Obioma",
+        "title": "The Fishermen",
+        "fulltitle": null,
+        "publisher": "One/ Little, Brown",
+        "year": null,
+        "isbn": 992918243,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Neville Hawcock",
+        "bylineposition": "FT's deputy books editor",
+        "copy": "<p>Set in the UK and India, Sahota’s Man Booker-shortlisted novel focuses on three men who have left India in search of work, and on the devout Sikh “visa bride” of one of them. The streets are not paved with gold in this grittily powerful novel.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction",
+      "book": {
+        "author": "Sunjeev Sahota",
+        "title": "The Year of the Runaways",
+        "fulltitle": null,
+        "publisher": "Picador",
+        "year": null,
+        "isbn": 1447241649,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Neville Hawcock",
+        "bylineposition": "FT's deputy books editor",
+        "copy": "<p>Beginning with 1990s <em>Four Bare Legs in a Bed</em>, Simpson’s sharp, witty story collections have largely tracked her own time of life in their preoccupations. Now in her mid-fifties, she focuses on the sometimes poignant, sometimes just irksome trials of middle age; the resulting stories are warm, funny and acutely observed.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction",
+      "book": {
+        "author": "Helen Simpson",
+        "title": "Helen Simpson",
+        "fulltitle": null,
+        "publisher": "Jonathan Cape",
+        "year": null,
+        "isbn": "191070220X",
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Neville Hawcock",
+        "bylineposition": "FT's deputy books editor",
+        "copy": "<p>Two oddities in a single yellow slipcase: debut novel <em>The Wallcreeper</em>, published in the US last year when Zink was 50, is an eccentric tale of eco-activism and marital failure; her follow-up, Mislaid, is an equally quirky novel about a white mother and child passing themselves off as black. If the narratives often feel merely wayward, Zink’s vivid, zingy prose is ample compensation.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction",
+      "book": {
+        "author": "Nell Zink",
+        "title": "The Wallcreeper/Mislaid",
+        "fulltitle": null,
+        "publisher": "Fourth Estate/ Dorothy (Wallcreeper) and Ecco (Mislaid)",
+        "year": null,
+        "isbn": 8139601,
         "image": null
       },
       "longreview": {
@@ -1373,16 +2483,243 @@
       "review": {
         "byline": "Angel Gurria-Quintana",
         "bylineposition": "Books critic",
-        "copy": ""
+        "copy": "<p>On the eve of Angola’s independence from Portugal in 1975, the agoraphobic Ludo bricks herself into an apartment in Luanda. She spends the next three decades in self-imposed isolation as a civil war rages outside, until a chance encounter with a young burglar finally brings her out into a transformed country. A remarkable novel from one of Angola’s most notable storytellers.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Fiction in translation",
       "book": {
-        "author": null,
-        "title": null,
+        "author": "José Eduardo Agualusa, translated by Daniel Hahn",
+        "title": "A General Theory of Oblivion",
         "fulltitle": null,
-        "publisher": null,
+        "publisher": "Harvill Secker",
         "year": null,
-        "isbn": null,
+        "isbn": 1846558476,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Angel Gurria-Quintana",
+        "bylineposition": "Books critic",
+        "copy": "<p>Based on a true occurrence, the latest novel to be translated into English by Mozambique’s best-known author tells the story of a village besieged by lions, and the tensions exposed as a hunter is called in to kill them. Shortlisted for this year’s Man Booker International prize, Couto excels at probing the ways in which the supernatural and the human intersect and collide.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction in translation",
+      "book": {
+        "author": "Mia Couto\r translated by David Brookshaw",
+        "title": "Confession of the Lioness",
+        "fulltitle": null,
+        "publisher": "Harvill Secker/ Farrar, Straus & Giroux",
+        "year": null,
+        "isbn": 1846558034,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Angel Gurria-Quintana",
+        "bylineposition": "Books critic",
+        "copy": "<p>The winner of this year’s Goncourt Prize for best first novel, this powerful retelling of Albert Camus’ <em>The Outsider</em> is not only a deconstruction of a literary classic but also a plaintive meditation on the growing hold of conservative Islam in modern Algeria.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction in translation",
+      "book": {
+        "author": "Kamel Daoud, translated by John Cullen",
+        "title": "The Meursault Investigation",
+        "fulltitle": null,
+        "publisher": "Oneworld/ Other Press",
+        "year": null,
+        "isbn": 1590517512,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Angel Gurria-Quintana",
+        "bylineposition": "Books critic",
+        "copy": "<p>The final instalment of Ferrante’s triumphant Neapolitan quartet picks up the story of life-long friends Lila and Lenù. The novel focuses brilliantly — as did its predecessors — on the emotional intricacies and the rollercoaster intensity of the friendship between its now mature protagonists.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction in translation",
+      "book": {
+        "author": "Elena Ferrante, translated by Euan Cameron",
+        "title": "The Story of the Lost Child",
+        "fulltitle": null,
+        "publisher": "Europa Editions",
+        "year": null,
+        "isbn": 1609452860,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Angel Gurria-Quintana",
+        "bylineposition": "Books critic",
+        "copy": "<p>This confident debut by Israel’s Gundar-Goshen kicks off as a picaresque novel about Yaacov and his philandering friend Zeev, two villagers in pre-second world war Palestine who sign up to a scheme to marry Jewish European women and bring them back to the homeland. A tender, sensual study of human frailties and desires.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction in translation",
+      "book": {
+        "author": "Ayelet Gundar-Goshen, translated by Sondra Silverston",
+        "title": "One Night, Markovitch",
+        "fulltitle": null,
+        "publisher": "Pushkin Press",
+        "year": null,
+        "isbn": 1782270523,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Angel Gurria-Quintana",
+        "bylineposition": "Books critic",
+        "copy": "<p>A series of interlinking stories are at the heart of this novel by the winner of the 2015 Man Booker International Prize. One of Hungary’s most outstanding authors creates moving meditations on beauty and our responses to it.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction in translation",
+      "book": {
+        "author": "László Krasznahorkai, translated by Ottilie Mulzet",
+        "title": "Seiobo There Below",
+        "fulltitle": null,
+        "publisher": "Tuskar Rock/ New Directions",
+        "year": null,
+        "isbn": 81121967,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Angel Gurria-Quintana",
+        "bylineposition": "Books critic",
+        "copy": "<p>“It’s full of ghosts here,” says a character in the latest work by the winner of the 2014 Nobel Prize to be translated into English. The loss of an address book leads the protagonist to confront his past in Paris’s postwar suburbs in an atmospheric novel that follows the emotional contours of the author’s own early life.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction in translation",
+      "book": {
+        "author": "Patrick Modiano, translated by Euan Cameron",
+        "title": "So You Don’t Get Lost in the Neighbourhood",
+        "fulltitle": null,
+        "publisher": "MacLehose/ Houghton Mifflin Harcourt",
+        "year": null,
+        "isbn": "054463506X",
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Angel Gurria-Quintana",
+        "bylineposition": "Books critic",
+        "copy": "<p>A successful architect is caught up in the twin upheavals of the Spanish civil war and an overpowering love affair in this novel by one of Spain’s most distinguished authors. An exhilarating account of a man wrestling with guilt and desire as the world falls apart.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction in translation",
+      "book": {
+        "author": "Antonio Muñoz Molina, translated by Edith Grossman",
+        "title": "In the Night of Time",
+        "fulltitle": null,
+        "publisher": "Tuskar Rock Press/ Houghton Mifflin Harcourt",
+        "year": null,
+        "isbn": 547547846,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Angel Gurria-Quintana",
+        "bylineposition": "Books critic",
+        "copy": "<p>In a timely narrative that switches between the 1940s and the 1960s, Finland’s most successful contemporary novelist paints a picture of betrayal, self-interest and moral compromise in Estonia as the tiny Baltic state is occupied by Nazi Germany and, later, by the Soviet Union.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction in translation",
+      "book": {
+        "author": "Sofi Oksanen translated by Lola Rogers",
+        "title": "When the Doves Disappeared",
+        "fulltitle": null,
+        "publisher": "Atlantic/ Knopf",
+        "year": null,
+        "isbn": 1770893970,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Angel Gurria-Quintana",
+        "bylineposition": "Books critic",
+        "copy": "<p>Through the story of Mevlut Karatas, who migrates from Anatolia to Istanbul as a child and grows up to become a street vendor, the 2006 Nobel laureate offers another loving meditation on the city of his birth. A polyphonic novel about desire, memory, change and the lost pleasures of walking around Istanbul’s long-gone neighbourhoods.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Fiction in translation",
+      "book": {
+        "author": "Orhan Pamuk, translated by Ekin Oklap",
+        "title": "A Strangeness in My Mind",
+        "fulltitle": null,
+        "publisher": "Faber/ Knopf",
+        "year": null,
+        "isbn": 571275974,
         "image": null
       },
       "longreview": {
@@ -1396,16 +2733,93 @@
       "review": {
         "byline": "Maria Crawford",
         "bylineposition": "FT's assistant arts editor",
-        "copy": ""
+        "copy": "<p>This meeting of one of the 20th century’s most important poets and one of our greatest scholars is an exercise in literary generosity. Ricks and co-editor McCue offer eight pages of enlightening commentary to each page of Eliot’s poems, some of which are collected here for the first time.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Poetry",
       "book": {
-        "author": null,
-        "title": null,
-        "fulltitle": null,
-        "publisher": null,
+        "author": "Edited by Christopher Ricks and Jim McCue",
+        "title": "The Poems of TS Eliot",
+        "fulltitle": "The Poems of TS Eliot: The Annotated Text, Volumes 1 and 2",
+        "publisher": "Faber/ Johns Hopkins University Press",
         "year": null,
-        "isbn": null,
+        "isbn": 571057063,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Maria Crawford",
+        "bylineposition": "FT's assistant arts editor",
+        "copy": "<p>Everyman’s elegant “Pocket Poet” series includes some surprising delights. In this edition, almost as fascinating as Horace’s lines are some of the collected translators: Milton, Byron, even Elizabeth I.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Poetry",
+      "book": {
+        "author": "Edited by Paul Quarrie",
+        "title": "Horace: Poems",
+        "fulltitle": null,
+        "publisher": "Everyman’s Library",
+        "year": null,
+        "isbn": 199555273,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Maria Crawford",
+        "bylineposition": "FT's assistant arts editor",
+        "copy": "<p>The Singapore-born poet’s first UK publication is disciplined yet adventurous in form, casual in tone and deeply personal in subject matter. Koh’s verse addresses the split inheritance of his postcolonial upbringing, as well as the tension between an émigré’s longing for home and rejection of nostalgia.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Poetry",
+      "book": {
+        "author": "Jee Leong Koh",
+        "title": "Steep Tea",
+        "fulltitle": null,
+        "publisher": "Carcanet",
+        "year": null,
+        "isbn": 1847772277,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Maria Crawford",
+        "bylineposition": "FT's assistant arts editor",
+        "copy": "<p>Rankine won the Forward prize (and several others in the US) for this collection of prose poems and essays. Inspired by observations of everyday racism, these sharply crafted vignettes are fierce, witty, thought-provoking and alarming.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Poetry",
+      "book": {
+        "author": "Claudia Rankine",
+        "title": "Citizen: An American Lyric",
+        "fulltitle": null,
+        "publisher": "Penguin Poetry/ Graywolf",
+        "year": null,
+        "isbn": 1555976905,
         "image": null
       },
       "longreview": {
@@ -1419,16 +2833,68 @@
       "review": {
         "byline": "Tom Robbins",
         "bylineposition": "FT's travel editor",
-        "copy": ""
+        "copy": "<p>A New Yorker writer, Finnegan is best known for his coverage of conflicts and US poverty — but he has also been a life-long surf fanatic. <em>Barbarian Days</em>, a chronicle of his obsession as he travels from California to Hawaii, South Africa and Fiji, promises to become a set text for anyone interested in the sport.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Travel",
       "book": {
-        "author": null,
-        "title": null,
+        "author": "William Finnegan",
+        "title": "Barbarian Days: A Surfing Life",
         "fulltitle": null,
-        "publisher": null,
+        "publisher": "Corsair/ Penguin",
         "year": null,
-        "isbn": null,
+        "isbn": 1594203474,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Tom Robbins",
+        "bylineposition": "FT's travel editor",
+        "copy": "<p>Theroux’s journey through the southern states of his native US focuses not on the <em>Gone with the Wind</em>-style mansions of popular imagination but on the hardscrabble towns bypassed by development. Theroux finds warmth and beauty but also dire poverty.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Travel",
+      "book": {
+        "author": "Paul Theroux",
+        "title": "Deep South",
+        "fulltitle": "Deep South: Four Seasons on Back Roads",
+        "publisher": "Hamish Hamilton/ Eamon Dolan — Houghton Mifflin Harcourt",
+        "year": null,
+        "isbn": 544323521,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Tom Robbins",
+        "bylineposition": "FT's travel editor",
+        "copy": "<p>On holiday in Turkey, Vann comes across the steel hull of a 90ft boat and, fulfilling a dream, he decides to rebuild it and sail the Mediterranean. What happens next is an extended disaster — an antidote to the usual run of escape-to-the-sun memoirs.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Travel",
+      "book": {
+        "author": "David Vann",
+        "title": "A Mile Down",
+        "fulltitle": null,
+        "publisher": "William Heinemann/ Da Capo",
+        "year": null,
+        "isbn": 1560257105,
         "image": null
       },
       "longreview": {
@@ -1442,16 +2908,143 @@
       "review": {
         "byline": "Simon Kuper",
         "bylineposition": "FT columnist",
-        "copy": ""
+        "copy": "<p>Runners have come tantalisingly close to finishing the 26 miles and 375 yards in under two hours — but none has yet done so. Focusing on Kenyan athlete Geoffrey Mutai, Caesar’s book is an engaging study of the extremes of obsession and the limits of physiology.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Sport",
       "book": {
-        "author": null,
-        "title": null,
-        "fulltitle": null,
-        "publisher": null,
+        "author": "Ed Caesar",
+        "title": "Two Hours",
+        "fulltitle": "Two Hours: The Quest to Run the Impossible Marathon",
+        "publisher": "Viking/ Simon & Schuster",
         "year": null,
-        "isbn": null,
+        "isbn": 62326112,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Simon Kuper",
+        "bylineposition": "FT columnist",
+        "copy": "<p>A wonderfully researched, very well written and lovingly produced history of the county championship. Rather than a continuous narrative, this is a series of illustrated vignettes covering different themes and curiosities decade by decade. The result is a book filled with characters and laughter.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Sport",
+      "book": {
+        "author": "Stephen Chalke",
+        "title": "Summer’s Crown",
+        "fulltitle": "Summer’s Crown: The Story of Cricket’s County Championship",
+        "publisher": "Fairfield Books",
+        "year": null,
+        "isbn": 956851150,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Simon Kuper",
+        "bylineposition": "FT columnist",
+        "copy": "<p>Fletcher was 12 when he went with his father, brother, uncle and grandfather to watch Bradford City play football on May 11 1985. He returned home that evening without his relatives, who were devoured by the fire that killed 56 in the old wooden stand. A heartbreaking book, yet also a sweet evocation of provincial northern England.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Sport",
+      "book": {
+        "author": "Martin Fletcher",
+        "title": "Fifty-Six",
+        "fulltitle": "Fifty-Six: The Story of the Bradford Fire",
+        "publisher": "Bloomsbury",
+        "year": null,
+        "isbn": 1472920163,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Simon Kuper",
+        "bylineposition": "FT columnist",
+        "copy": "<p>McRae — a South African who is arguably Britain’s most garlanded author on sport — has done it again with the story of a black boxer who was secretly gay, killed an opponent in the ring, and then got pugilistic dementia. An astonishing story, simply told through a mix of sensitive interviews and deep reading.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Sport",
+      "book": {
+        "author": "Donald McRae",
+        "title": "A Man’s World",
+        "fulltitle": "A Man’s World: The Double Life of Emile Griffith",
+        "publisher": "Simon & Schuster",
+        "year": null,
+        "isbn": "147113234X",
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Simon Kuper",
+        "bylineposition": "FT columnist",
+        "copy": "<p>Here is tennis’s answer to Nick Hornby’s <em>Fever Pitch</em>: Skidelsky describes how the beauty of Roger Federer’s tennis game helped restore him to mental health. The book is particularly strong on Federer’s place in tennis history — and funny about Federer’s nemesis, Rafael Nadal.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Sport",
+      "book": {
+        "author": "William Skidelsky",
+        "title": "Federer and Me",
+        "fulltitle": "Federer and Me: A Story of Obsession",
+        "publisher": "Yellow Jersey",
+        "year": null,
+        "isbn": 224092359,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Simon Kuper",
+        "bylineposition": "FT columnist",
+        "copy": "<p>This splendidly evocative book concentrates on one fortnight when Britain achieved almost simultaneous triumphs in cricket, tennis and golf. Winder recreates the mood of 1934, while providing a sort of triple biography of cricketer Hedley Verity, tennis player Fred Perry and golfer Henry Cotton.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Sport",
+      "book": {
+        "author": "Robert Winder",
+        "title": "Half-Time",
+        "fulltitle": "Half-Time: The Glorious Summer of 1934",
+        "publisher": "Wisden",
+        "year": null,
+        "isbn": 1472908929,
         "image": null
       },
       "longreview": {
@@ -1465,16 +3058,43 @@
       "review": {
         "byline": "Tim Hayward",
         "bylineposition": "Contributing writer",
-        "copy": ""
+        "copy": "<p>Whatever your preconceptions about Ukrainian food, prepare to shed them. Hercules presents a bright cuisine with much influence from the Middle East, some delicious home cooking and terrific preservation techniques.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Food",
       "book": {
-        "author": null,
-        "title": null,
+        "author": "Olia Hercules",
+        "title": "Mamushka: Recipes from Ukraine and Beyond",
         "fulltitle": null,
-        "publisher": null,
+        "publisher": "Mitchell Beazley",
         "year": null,
-        "isbn": null,
+        "isbn": 1784720380,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Tim Hayward",
+        "bylineposition": "Contributing writer",
+        "copy": "<p>A wide-ranging survey of the food of the Nordic region, now so fashionable. Nilsson, the brains behind the Faviken restaurant, writes engagingly, not just about the traditional and occasionally scary stuff — the fermented shark and stuffed puffins — but also about national favourites that have sprung up in recent years, challenging our notions of “authenticity”.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Food",
+      "book": {
+        "author": "Magnus Nilsson",
+        "title": "The Nordic Cookbook",
+        "fulltitle": null,
+        "publisher": "Phaidon",
+        "year": null,
+        "isbn": 714868728,
         "image": null
       },
       "longreview": {
@@ -1488,7 +3108,9 @@
       "review": {
         "byline": "Jane Owen",
         "bylineposition": "FT's House & Home editor",
-        "copy": ""
+        "copy": "<p>Any conversation about the nuanced delights of moss gardening is usually overshadowed by lawn bores wanting to know how to eradicate the stuff. Here is the antidote. Martin’s whistle-stop survey of moss gardens from Japan to North America should convert even diehard moss-militants.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Gardens",
       "book": {
@@ -1498,7 +3120,7 @@
         "publisher": "Timber Press",
         "year": 2015,
         "isbn": 1604696478,
-        "image": null
+        "image": "mossgarden.jpg"
       },
       "longreview": {
         "uuid": null
@@ -1506,22 +3128,24 @@
     },
     {
       "list": {
-        "name": "Christmas 2015"
+        "name": null
       },
       "review": {
-        "byline": "Jane Owen",
-        "bylineposition": "FT's House & Home editor",
-        "copy": ""
+        "byline": null,
+        "bylineposition": null,
+        "copy": "",
+        "useimage": true,
+        "uuid": null
       },
-      "category": "Gardens",
+      "category": null,
       "book": {
-        "author": "Caroline Holmes",
-        "title": "Water Lilies",
-        "fulltitle": "Water Lilies: And Bory Latour-Marliac, the Genius Behind Monet's Water Lilies",
-        "publisher": "Garden Art Press",
-        "year": 2015,
-        "isbn": 1870673832,
-        "image": null
+        "author": null,
+        "title": null,
+        "fulltitle": null,
+        "publisher": null,
+        "year": null,
+        "isbn": null,
+        "image": "waterlilies.jpg"
       },
       "longreview": {
         "uuid": null
@@ -1534,7 +3158,9 @@
       "review": {
         "byline": "Jane Owen",
         "bylineposition": "FT's House & Home editor",
-        "copy": ""
+        "copy": "<p>The ambitious title is justified by R William Thomas’s experience of working for 26 years at Longwood, before becoming head gardener of that other great North American garden, Chanticleer, in 2003. Anyone who has been seduced by Chanticleer’s deft use of colour, form and sculpture will find all the guidance they need.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Gardens",
       "book": {
@@ -1544,7 +3170,7 @@
         "publisher": "Timber Press",
         "year": 2015,
         "isbn": 1604695447,
-        "image": null
+        "image": "artofgardening.jpg"
       },
       "longreview": {
         "uuid": null
@@ -1557,7 +3183,9 @@
       "review": {
         "byline": "Jane Owen",
         "bylineposition": "FT's House & Home editor",
-        "copy": ""
+        "copy": "<p>Richardson’s well-informed narrative and Andrew Lawson’s superb pictures conjure the gardens at their peak, from my colleague Robin Lane Fox’s “Euro-grass”-free border of colour and form at New College to Worcester’s wonderful planting by Simon Bagnall.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Gardens",
       "book": {
@@ -1575,14 +3203,16 @@
     },
     {
       "list": {
-        "name": "Christmas 2015"
+        "name": null
       },
       "review": {
-        "byline": "Jane Owen",
-        "bylineposition": "FT's House & Home editor",
-        "copy": ""
+        "byline": null,
+        "bylineposition": null,
+        "copy": "",
+        "useimage": true,
+        "uuid": null
       },
-      "category": "Gardens",
+      "category": null,
       "book": {
         "author": null,
         "title": null,
@@ -1603,16 +3233,18 @@
       "review": {
         "byline": "Barry Forshaw",
         "bylineposition": "Books critic",
-        "copy": ""
+        "copy": "<p>Dolan’s Long Way Home (2014) focused on immigrant workers menaced by ruthless gangmasters. Detectives Zigic and Ferreira return in Tell No Tales, this time investigating neo-Nazis in a Peterborough that is a long way from the cosy stereotypes of provincial cathedral towns.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Crime",
       "book": {
-        "author": null,
-        "title": null,
+        "author": "Eva Dolan",
+        "title": "Tell No Tales",
         "fulltitle": null,
-        "publisher": null,
+        "publisher": "Harvill Secker",
         "year": null,
-        "isbn": null,
+        "isbn": "184655778X",
         "image": null
       },
       "longreview": {
@@ -1625,17 +3257,94 @@
       },
       "review": {
         "byline": "Barry Forshaw",
-        "bylineposition": null,
-        "copy": ""
+        "bylineposition": "Books critic",
+        "copy": "<p>Swede Cecilia Ekbäck (writing in English) provides something fresh: a period setting (Swedish Lapland in 1717) and a haunting poetic strain not found elsewhere in Nordic Noir. Maija, with her husband and daughters, leaves her native Finland and a troubled past to create a new life in Sweden. When one of her daughters comes across a neighbour’s mutilated corpse, it is initially attributed to a wolf attack – but Maija suspects murder.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Crime",
       "book": {
-        "author": null,
-        "title": null,
+        "author": "Cecilia Ekbäck",
+        "title": "Wolf Winterby",
         "fulltitle": null,
-        "publisher": null,
+        "publisher": "Hodder & Stoughton",
         "year": null,
-        "isbn": null,
+        "isbn": 1444789511,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Barry Forshaw",
+        "bylineposition": "Books critic",
+        "copy": "<p>Is there a thriller writer alive today who both worked for the CIA and wrote speeches for Eisenhower? Yes, there is — and McCarry, after his spectacular early career, has achieved remarkable success as a novelist. In his latest book, a young spy infiltrates the CIA to avenge the death of his father.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Crime",
+      "book": {
+        "author": "Charles McCarry",
+        "title": "The Mulberry Bush",
+        "fulltitle": null,
+        "publisher": "Head of Zeus/ Mysterious Press",
+        "year": null,
+        "isbn": 192791737,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Barry Forshaw",
+        "bylineposition": "Books critic",
+        "copy": "<p>Meyer’s novels present an unvarnished picture of the social divisions in post-apartheid South Africa. Here Captain Benny Griessel investigates the murder of a man behind an internet service that supplies unfaithful partners with plausible cover stories — but, like his clients, was he all he appeared to be?</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Crime",
+      "book": {
+        "author": "Deon Meyer, translated by KL Seegers",
+        "title": "Icarus",
+        "fulltitle": null,
+        "publisher": "Hodder & Stoughton",
+        "year": null,
+        "isbn": 802124003,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Barry Forshaw",
+        "bylineposition": "Books critic",
+        "copy": "<p>When bombs go off in a US city, one survivor turns out to have belonged to a sinister sect, The Faith. Might he also be a murderer? Moriarty’s debut novel is a blistering examination of both the criminal mind and the dark secrets that lie within America’s Bible Belt.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Crime",
+      "book": {
+        "author": "Cal Moriarty",
+        "title": "The Killing of Bobbi Lomax",
+        "fulltitle": null,
+        "publisher": "Faber",
+        "year": null,
+        "isbn": 571305393,
         "image": null
       },
       "longreview": {
@@ -1649,16 +3358,243 @@
       "review": {
         "byline": "James Lovegrove",
         "bylineposition": "Books critic",
-        "copy": ""
+        "copy": "<p>Unclassifiably wild, weird and wacky, Hossain’s debut novel mixes Islamic mysticism, Greek myth, alchemy and superheroes. In the chaos of post-invasion Iraq there are fortunes to be made and minds to be lost. The tone is saltily cynical, with a vein of satire throbbing just below the surface.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Science Fiction",
       "book": {
-        "author": null,
-        "title": null,
+        "author": "Saad Hossain",
+        "title": "Escape From Baghdad!",
         "fulltitle": null,
-        "publisher": null,
+        "publisher": "Unnamed Press",
         "year": null,
-        "isbn": null,
+        "isbn": 1939419247,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "James Lovegrove",
+        "bylineposition": "Books critic",
+        "copy": "<p>The inhabitants of an island off the coast of South Carolina disappear mysteriously, transported to a kind of limbo. The loved ones left behind search for answers. It’s like a cool, cerebral version of <em>Lost</em> that unflinchingly lays bare the ugliness lurking in the human heart.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Science Fiction",
+      "book": {
+        "author": "Kit Reed",
+        "title": "Where",
+        "fulltitle": null,
+        "publisher": "Tor",
+        "year": null,
+        "isbn": 765379821,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "James Lovegrove",
+        "bylineposition": "Books critic",
+        "copy": "<p>Another masterpiece of future-building from Robinson. A vast starship travels to colonise a distant moon. Its mission fails but the crew’s attempts to salvage something from the disaster provide compelling drama. The author has an abiding faith in humankind’s ability to harness technology to our advantage.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Science Fiction",
+      "book": {
+        "author": "Kim Stanley Robinson",
+        "title": "Aurora",
+        "fulltitle": null,
+        "publisher": "Orbit",
+        "year": null,
+        "isbn": 356500462,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "James Lovegrove",
+        "bylineposition": "Books critic",
+        "copy": "<p>The Moon explodes and the Earth ends, but a dogged band of survivors in an expanded International Space Station struggle to keep the guttering flame of humanity alive. Stephenson brings polymathic research and narrative flair to this remarkable piece of apocalyptic fiction.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Science Fiction",
+      "book": {
+        "author": "Neal Stephenson",
+        "title": "Seveneves",
+        "fulltitle": null,
+        "publisher": "Borough Press/ William Morrow",
+        "year": null,
+        "isbn": 1501220233,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "James Lovegrove",
+        "bylineposition": "Books critic",
+        "copy": "<p>A delicate picture book using laser-cut silhouettes to evoke the French capital in all its romantic glory. A magically airborne Eiffel Tower takes the reader on a city-wide tour, with every time-honoured Parisian image present and correct. Superb, both technically and aesthetically.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Children's",
+      "book": {
+        "author": "Hélène Druvert",
+        "title": "Paris Up, Up And Away",
+        "fulltitle": null,
+        "publisher": "Thames & Hudson",
+        "year": null,
+        "isbn": 500650594,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "James Lovegrove",
+        "bylineposition": "Books critic",
+        "copy": "<p>The indomitable Gaul is back in this second outing from Ferri and Conrad, stepping ably into the shoes vacated by original Asterix creators Goscinny and Uderzo. A chapter of Caesar’s memoirs goes missing in a witty, knockabout satire of the age of WikiLeaks.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Children's",
+      "book": {
+        "author": "Jean-Yves Ferri and Didier Conrad, translated by Anthea Bell",
+        "title": "Asterix and the Missing Scroll",
+        "fulltitle": null,
+        "publisher": "Orion/ Asterix",
+        "year": null,
+        "isbn": 1510100458,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "James Lovegrove",
+        "bylineposition": "Books critic",
+        "copy": "<p>A small bird plucks up the nerve to leap off the end of a branch and discovers that there was nothing to be afraid of after all. A simple, whimsical picture book conveying the message that it’s okay to be nervous about trying new things and that courage reaps rewards.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Children's",
+      "book": {
+        "author": "Ole Könnecke",
+        "title": "You Can Do It, Bert!",
+        "fulltitle": null,
+        "publisher": "Gecko Press",
+        "year": null,
+        "isbn": 1927271037,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "James Lovegrove",
+        "bylineposition": "Books critic",
+        "copy": "<p>Narrators don’t come much more unreliable than Ivy Pocket. Unshakeably convinced of her own wonderfulness, lady’s maid Ivy fails to see how aggravating she is to others, but still achieves her goal of delivering a mystical diamond to a young aristocrat. <em>The Moonstone</em> with laughs.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Children's",
+      "book": {
+        "author": "Caleb Krisp",
+        "title": "Anyone But Ivy Pocket",
+        "fulltitle": null,
+        "publisher": "Bloomsbury/ Greenwillow",
+        "year": null,
+        "isbn": 62364340,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "James Lovegrove",
+        "bylineposition": "Books critic",
+        "copy": "<p>Terrific science-out-of-control story from the author of <em>Holes</em>. A mutated form of a new organic biofuel escapes from the lab and wreaks havoc in the surrounding community. The tension is well sustained throughout, the characterisation acute.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Children's",
+      "book": {
+        "author": "Louis Sachar",
+        "title": "Fuzzy Mud",
+        "fulltitle": null,
+        "publisher": "Bloomsbury/ Delacorte",
+        "year": null,
+        "isbn": 385743785,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "James Lovegrove",
+        "bylineposition": "Books critic",
+        "copy": "<p>Murder mystery thriller centred on the world of apothecaries in Restoration London. A young apprentice vows to track down his master’s murderer and stumbles on a conspiracy with far-reaching consequences. Plenty of gore and an unusual choice of subject matter make for a pacey, adventuresome read.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Children's",
+      "book": {
+        "author": "Kevin Sands",
+        "title": "The Blackthorn Key",
+        "fulltitle": null,
+        "publisher": "Puffin/ Aladdin",
+        "year": null,
+        "isbn": 1481446517,
         "image": null
       },
       "longreview": {
@@ -1672,16 +3608,93 @@
       "review": {
         "byline": "Suzi Feay",
         "bylineposition": "Books critic",
-        "copy": ""
+        "copy": "<p>The ever-inventive Mulligan turns his attention to interns. A group of classmates take up short assignments in the dreary adult world, only to be plunged into danger when one of them discovers a horrific secret behind a new soft drink called Liquidator.</p>",
+        "useimage": true,
+        "uuid": null
       },
       "category": "Young adult",
       "book": {
-        "author": null,
-        "title": null,
+        "author": "Andy Mulligan",
+        "title": "Liquidator",
         "fulltitle": null,
-        "publisher": null,
+        "publisher": "David Fickling Books",
         "year": null,
-        "isbn": null,
+        "isbn": "191020014X",
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Suzi Feay",
+        "bylineposition": "Books critic",
+        "copy": "<p>Priestley shows us Scrooge’s tale from a new angle, that of two starving children who are unlucky enough to cross his path. They are, of course, the boy named Ignorance and the girl named Want. An ingenious take on an evergreen fable.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Young adult",
+      "book": {
+        "author": "Chris Priestley",
+        "title": "The Last of the Spirits",
+        "fulltitle": null,
+        "publisher": "Bloomsbury",
+        "year": null,
+        "isbn": 1408851997,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Suzi Feay",
+        "bylineposition": "Books critic",
+        "copy": "<p>This narrative of a teenage thief criss-crossing the universe on space-trains is thrilling — but its eeriest effects come via its examination of what it means to be human. Reeve creates a hauntingly beautiful world.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Young adult",
+      "book": {
+        "author": "Philip Reeve",
+        "title": "Railhead",
+        "fulltitle": null,
+        "publisher": "OUP",
+        "year": null,
+        "isbn": 192742752,
+        "image": null
+      },
+      "longreview": {
+        "uuid": null
+      }
+    },
+    {
+      "list": {
+        "name": "Christmas 2015"
+      },
+      "review": {
+        "byline": "Suzi Feay",
+        "bylineposition": "Books critic",
+        "copy": "<p>Part graphic novel, part prose narrative, <em>The Marvels</em> is a puzzle-box of a book. What links the titular 18th-century acting dynasty with the boy Joseph, who in 1990 comes to live with his reclusive uncle in Spitalfields? A mystery wrapped in a love letter to a fast-vanishing London.</p>",
+        "useimage": false,
+        "uuid": null
+      },
+      "category": "Young adult",
+      "book": {
+        "author": "Brian Selznick",
+        "title": "The Marvels",
+        "fulltitle": null,
+        "publisher": "Scholastic",
+        "year": null,
+        "isbn": 545448689,
         "image": null
       },
       "longreview": {
