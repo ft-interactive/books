@@ -70,14 +70,12 @@ function getBundlers(useWatchify) {
     };
 
     // register all the transforms
-    BROWSERIFY_TRANSFORMS.forEach(function (transform) {
-      bundler.b.transform(transform);
-    });
+    BROWSERIFY_TRANSFORMS.forEach(transform => bundler.b.transform(transform));
 
     // upgrade to watchify if we're in 'serve' mode
     if (useWatchify) {
       bundler.b = watchify(bundler.b);
-      bundler.b.on('update', function (files) {
+      bundler.b.on('update', files => {
         // re-run the bundler then reload the browser
         bundler.execute().on('end', browserSync.reload);
 
@@ -115,10 +113,10 @@ gulp.task('minify-css', () => gulp.src('.tmp/**/*.css')
 
 // copies over miscellaneous files (client => dist)
 gulp.task('copy-misc-files', () => gulp.src(
-  OTHER_SCRIPTS.map(script => 'client/' + script).concat([
+  [
     'client/**/*',
     '!client/**/*.{html,scss,js,jpg,png,gif,svg}', // all handled by other tasks
-  ]), {dot: true})
+  ], {dot: true})
   .pipe(gulp.dest('dist'))
 );
 
@@ -139,13 +137,11 @@ gulp.task('finalise-html', done => {
 gulp.task('clean', del.bind(null, ['.tmp/*', 'dist/*', '!dist/.git'], {dot: true}));
 
 // // runs a development server (serving up .tmp and client)
-gulp.task('serve', ['styles'], function (done) {
-  var bundlers = getBundlers(true);
+gulp.task('serve', ['styles'], done => {
+  const bundlers = getBundlers(true);
 
   // execute all the bundlers once, up front
-  var initialBundles = mergeStream(bundlers.map(function (bundler) {
-    return bundler.execute();
-  }));
+  const initialBundles = mergeStream(bundlers.map(bundler => bundler.execute()));
   initialBundles.resume(); // (otherwise never emits 'end')
 
   initialBundles.on('end', function () {
@@ -182,12 +178,14 @@ gulp.task('serve:dist', ['build'], done => {
   }, done);
 });
 
-// task to do a straightforward browserify bundle (build only)
-gulp.task('scripts', function () {
-  return mergeStream(getBundlers().map(function (bundler) {
-    return bundler.execute();
-  }));
-});
+// preprocess/copy scripts (client => .tmp)
+// (this is part of prod build task; not used during serve)
+gulp.task('scripts', () => mergeStream([
+  // bundle browserify entries
+  getBundlers().map(bundler => bundler.execute()),
+  // also copy over 'other' scripts
+  gulp.src(OTHER_SCRIPTS.map(script => 'client{/_hack,}/' + script)).pipe(gulp.dest('.tmp'))
+]));
 
 // builds stylesheets with sass/autoprefixer
 gulp.task('styles', () => gulp.src('client/**/*.scss')
