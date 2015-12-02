@@ -1,7 +1,7 @@
+import 'dotenv/config';
 import browserify from 'browserify';
 import browserSync from 'browser-sync';
 import del from 'del';
-import dotenv from 'dotenv';
 import fetch from 'node-fetch';
 import fs from 'fs';
 import nunjucks from 'nunjucks';
@@ -17,8 +17,6 @@ import vinylBuffer from 'vinyl-buffer';
 import watchify from 'watchify';
 import processData from './process-data.js';
 const $ = require('auto-plug')('gulp');
-
-dotenv.load();
 
 const AUTOPREFIXER_BROWSERS = [
   'ie >= 8',
@@ -95,7 +93,7 @@ function getBundlers(useWatchify) {
 }
 
 // compresses images (client => dist)
-gulp.task('images', () => gulp.src('client/**/*.{jpg,png,gif,svg}')
+gulp.task('compress-images', () => gulp.src('client/**/*.{jpg,png,gif,svg}')
   .pipe($.imagemin({
     progressive: true,
     interlaced: true,
@@ -103,27 +101,30 @@ gulp.task('images', () => gulp.src('client/**/*.{jpg,png,gif,svg}')
   .pipe(gulp.dest('dist'))
 );
 
+// minifies JS (.tmp => dist)
+gulp.task('minify-js', () => gulp.src('.tmp/**/*.js')
+  .pipe($.uglify({output: {inline_script: true}})) // eslint-disable-line camelcase
+  .pipe(gulp.dest('dist'))
+);
+
+// minifies CSS (.tmp => dist)
+gulp.task('minify-css', () => gulp.src('.tmp/**/*.css')
+  .pipe($.minifyCss({compatibility: '*'}))
+  .pipe(gulp.dest('dist'))
+);
+
 // copies over miscellaneous files (client => dist)
-gulp.task('copy', () => gulp.src(
-  OTHER_SCRIPTS.concat([
+gulp.task('copy-misc-files', () => gulp.src(
+  OTHER_SCRIPTS.map(script => 'client/' + script).concat([
     'client/**/*',
     '!client/**/*.{html,scss,js,jpg,png,gif,svg}', // all handled by other tasks
   ]), {dot: true})
   .pipe(gulp.dest('dist'))
 );
 
-// minifies all HTML, CSS and JS (.tmp & client => dist)
-gulp.task('html', done => {
-  const assets = $.useref.assets({
-    searchPath: ['.tmp', 'client', '.'],
-  });
-
+// inlines short scripts/styles and minifies HTML (dist => dist)
+gulp.task('finalise-html', done => {
   gulp.src('.tmp/**/*.html')
-    .pipe(assets)
-    .pipe($.if('*.js', $.uglify({output: {inline_script: true}}))) // eslint-disable-line camelcase
-    .pipe($.if('*.css', $.minifyCss({compatibility: '*'})))
-    .pipe(assets.restore())
-    .pipe($.useref())
     .pipe(gulp.dest('dist'))
     .on('end', () => {
       gulp.src('dist/**/*.html')
@@ -135,7 +136,7 @@ gulp.task('html', done => {
 });
 
 // clears out the dist and .tmp folders
-gulp.task('clean', del.bind(null, ['.tmp', 'dist/*', '!dist/.git'], {dot: true}));
+gulp.task('clean', del.bind(null, ['.tmp/*', 'dist/*', '!dist/.git'], {dot: true}));
 
 // // runs a development server (serving up .tmp and client)
 gulp.task('serve', ['styles'], function (done) {
@@ -177,7 +178,7 @@ gulp.task('serve:dist', ['build'], done => {
     notify: false,
     server: 'dist',
     proxy: 'local',
-    startPath: "/best-of-2015/"
+    startPath: '/best-of-2015/'
   }, done);
 });
 
@@ -224,9 +225,14 @@ gulp.task('build', done => {
   env = 'production';
 
   runSequence(
-    ['clean'/*, 'scsslint', 'eslint'*/, 'download-data'],
-    ['scripts', 'styles', 'copy', 'templates'],
-    ['html', 'images'],
+    // preparatory
+    ['clean', /* 'scsslint', 'eslint', */ 'download-data'],
+    // preprocessing (client/templates => .tmp)
+    ['scripts', 'styles', 'templates'],
+    // optimisation and copying over misc files (.tmp/client => dist)
+    ['minify-js', 'minify-css', 'compress-images', 'copy-misc-files'],
+    // finalise the HTML in dist
+    ['finalise-html'],
   done);
 });
 
@@ -259,13 +265,11 @@ gulp.task('download-data', () => fetch(process.env.DATA_URL)
 );
 
 gulp.task('templates', () => {
-
   const env = nunjucks.configure('views');
   const data = processData(JSON.parse(fs.readFileSync('client/data.json', 'utf8')));
-  data.is_prod = env === 'production';
+  data.is_prod = env === 'production'; // eslint-disable-line camelcase
   const slug = 'best-of-2015';
   const html = env.render('best-of-2015.html', data);
   mkdirp.sync(`.tmp/${slug}`);
   fs.writeFileSync(`.tmp/${slug}/index.html`, html);
-
 });
